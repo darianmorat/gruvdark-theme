@@ -537,7 +537,7 @@
          "name": "JSON Key - Level 0",
          "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
          "settings": {
-            "foreground": "#C792EA"
+            "foreground": "#F07178"
          }
       },
       {
@@ -612,6 +612,25 @@
             "foreground": "#C3E88D"
          }
       },
+      {
+         "name": "JSON symbols",
+         "scope": [
+            "punctuation.support.type.property-name.begin.json.comments",
+            "punctuation.support.type.property-name.end.json.comments"
+         ],
+         "settings": {
+            "foreground": "#F07178"
+         }
+      },
+
+      {
+         "name": "Letters JSON",
+         "scope": ["constant.numeric.json.comments", "constant.language.json.comments"],
+         "settings": {
+            "foreground": "#D19A66"
+         }
+      },
+
       {
          "name": "Markdown - Plain",
          "scope": ["text.html.markdown", "punctuation.definition.list_item.markdown"],
@@ -839,9 +858,7 @@
       },
       {
          "name": "CSS results",
-         "scope": [
-           "keyword.control.at-rule.media.css", "punctuation.definition.keyword.css"
-         ],
+         "scope": ["keyword.control.at-rule.media.css", "punctuation.definition.keyword.css"],
          "settings": {
             "foreground": "#E66ADF"
          }

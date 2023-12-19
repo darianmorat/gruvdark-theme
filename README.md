@@ -12,8 +12,7 @@
 
 ## Getting started 
 
-You can install this theme through the [Visual Studio Marketplace](https://marketplace.visualstudio.com)
-<!-- Correct url -->
+You can install this theme through the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=darianmorat.darian-theme)
 
 1.  Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2.  Search for `Darian Theme`

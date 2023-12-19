@@ -1,9 +1,9 @@
 {
    "name": "darian-theme",
    "displayName": "Darian Theme",
-   "description": "Elegant, detailed, & high quality - color syntax", 
+   "description": "Elegant, detailed & high quality - Color syntax", 
    "icon": "images/logo.png",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",

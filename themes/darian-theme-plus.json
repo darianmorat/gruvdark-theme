@@ -90,7 +90,7 @@
       "editor.wordHighlightStrongBackground": "#004972b8",
       "editor.wordHighlightBackground": "#575757b8",
       "editor.lineHighlightBackground": "#ffffff0A",
-      "editor.lineHighlightBorder": "#282828",
+      "editor.lineHighlightBorder": "#00000000",
       "editorLineNumber.activeForeground": "#cacaca",
       "editorLink.activeForeground": "#4e94ce",
       "editorIndentGuide.background1": "#404040",

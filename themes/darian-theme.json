@@ -90,7 +90,7 @@
       "editor.wordHighlightStrongBackground": "#004972b8",
       "editor.wordHighlightBackground": "#575757b8",
       "editor.lineHighlightBackground": "#ffffff0A",
-      "editor.lineHighlightBorder": "#282828",
+      "editor.lineHighlightBorder": "#00000000",
       "editorLineNumber.activeForeground": "#cacaca",
       "editorLink.activeForeground": "#4e94ce",
       "editorIndentGuide.background1": "#404040",
@@ -546,7 +546,7 @@
             "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
          ],
          "settings": {
-            "foreground": "#FFCB6B"
+            "foreground": "#E5C07B"
          }
       },
       {
@@ -555,7 +555,7 @@
             "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
          ],
          "settings": {
-            "foreground": "#F78C6C"
+            "foreground": "#F07178"
          }
       },
       {
@@ -838,7 +838,8 @@
             "constant.numeric.css",
             "support.constant.property-value.css",
             "support.constant.color",
-            "entity.other.attribute-name.class.css"
+            "entity.other.attribute-name.class.css",
+            "support.constant.font-name.css"
          ],
          "settings": {
             "foreground": "#D19A66"
@@ -858,7 +859,7 @@
       },
       {
          "name": "CSS results",
-         "scope": ["keyword.control.at-rule.media.css", "punctuation.definition.keyword.css"],
+         "scope": ["keyword.control.at-rule.media.css", "keyword.control.at-rule.import.css", "punctuation.definition.keyword.css"],
          "settings": {
             "foreground": "#E66ADF"
          }

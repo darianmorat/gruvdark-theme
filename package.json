@@ -3,7 +3,7 @@
    "displayName": "Darian Theme",
    "description": "Elegant, detailed & high quality - Color syntax", 
    "icon": "images/logo.png",
-   "version": "1.0.4",
+   "version": "1.1.0",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -37,6 +37,11 @@
             "label": "Darian Theme Plus",
             "uiTheme": "vs-dark",
             "path": "./themes/darian-theme-plus.json"
+         },
+         {
+            "label": "Darian Theme Enhanced",
+            "uiTheme": "vs-dark",
+            "path": "./themes/darian-theme-enhanced.json"
          }
       ]
    }

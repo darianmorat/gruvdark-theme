@@ -12,6 +12,11 @@
 ![Darian Theme Plus](images/darian-theme-plus.png)
 &nbsp;
 
+<!-- ### Darian Theme Enhanced
+
+![Darian Theme Plus](images/darian-theme-enhanced.png)
+&nbsp; -->
+
 ## Getting started
 
 You can install this theme through the [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=darianmorat.darian-theme)
@@ -64,6 +69,11 @@ If you wanna go a bit further (like me), you can also add transparency to your t
 
 ![Darian Theme - Modify](images/darian-theme-plus-modified.png)
 &nbsp;
+
+<!-- ### Darian Theme Enhanced - Modified
+
+![Darian Theme - Modify](images/darian-theme-enhanced-modified.png)
+&nbsp; -->
 ---
 
 Theme created by <a href="https://github.com/darianmorat">Darian Toledo</a> ✨ <br />

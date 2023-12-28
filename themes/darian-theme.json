@@ -1,5 +1,6 @@
 {
    "name": "Darian Theme",
+   "semanticHighlighting": true,
    "colors": {
       "foreground": "#cccccc",
       "focusBorder": "#007fd4",
@@ -324,7 +325,7 @@
             "keyword.other.special-method"
          ],
          "settings": {
-            "foreground": "#82AAFF"
+            "foreground": "#F07178"
          }
       },
       {
@@ -354,7 +355,7 @@
             "keyword.other"
          ],
          "settings": {
-            "foreground": "#F78C6C"
+            "foreground": "#61AFEF"
          }
       },
       {
@@ -385,7 +386,7 @@
             "support.type.sys-types"
          ],
          "settings": {
-            "foreground": "#FFCB6B"
+            "foreground": "#E5C07B"
          }
       },
       {
@@ -436,7 +437,10 @@
       },
       {
          "name": "meta.method.js",
-         "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
+         "scope": [
+            "meta.class-method.js entity.name.function.js",
+            "variable.function.constructor"
+         ],
          "settings": {
             "foreground": "#82AAFF"
          }
@@ -527,7 +531,9 @@
       },
       {
          "name": "ES7 Bind Operator",
-         "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
+         "scope": [
+            "source.js constant.other.object.key.js string.unquoted.label.js"
+         ],
          "settings": {
             "fontStyle": "italic",
             "foreground": "#FF5370"
@@ -535,7 +541,9 @@
       },
       {
          "name": "JSON Key - Level 0",
-         "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
+         "scope": [
+            "source.json meta.structure.dictionary.json support.type.property-name.json"
+         ],
          "settings": {
             "foreground": "#F07178"
          }
@@ -625,7 +633,10 @@
 
       {
          "name": "Letters JSON",
-         "scope": ["constant.numeric.json.comments", "constant.language.json.comments"],
+         "scope": [
+            "constant.numeric.json.comments",
+            "constant.language.json.comments"
+         ],
          "settings": {
             "foreground": "#D19A66"
          }
@@ -633,7 +644,10 @@
 
       {
          "name": "Markdown - Plain",
-         "scope": ["text.html.markdown", "punctuation.definition.list_item.markdown"],
+         "scope": [
+            "text.html.markdown",
+            "punctuation.definition.list_item.markdown"
+         ],
          "settings": {
             "foreground": "#EEFFFF"
          }
@@ -807,12 +821,29 @@
       },
       {
          "name": "HTML classes id",
-         "scope": ["punctuation.separator.key-value.html", "entity.other.attribute-name.html"],
+         "scope": [
+            "punctuation.separator.key-value.html",
+            "entity.other.attribute-name.html"
+         ],
          "settings": {
             "foreground": "#A78CFA"
          }
       },
 
+      {
+         "name": "HTML",
+         "scope": ["text.html.derivative"],
+         "settings": {
+            "foreground": "#D4D4D4"
+         }
+      },
+      {
+         "name": "test",
+         "scope": ["keyword.operator.relational.js"],
+         "settings": {
+            "foreground": "#08FF08"
+         }
+      },
       {
          "name": "CSS main symbol",
          "scope": ["entity.name.tag.css"],
@@ -859,7 +890,11 @@
       },
       {
          "name": "CSS results",
-         "scope": ["keyword.control.at-rule.media.css", "keyword.control.at-rule.import.css", "punctuation.definition.keyword.css"],
+         "scope": [
+            "keyword.control.at-rule.media.css",
+            "keyword.control.at-rule.import.css",
+            "punctuation.definition.keyword.css"
+         ],
          "settings": {
             "foreground": "#E66ADF"
          }
@@ -874,7 +909,10 @@
       },
       {
          "name": "template",
-         "scope": ["meta.embedded.line", "punctuation.definition.template-expression"],
+         "scope": [
+            "meta.embedded.line",
+            "punctuation.definition.template-expression"
+         ],
          "settings": {
             "foreground": "#98C379"
          }
@@ -908,7 +946,8 @@
             "storage.type",
             "keyword.operator",
             "keyword.control.flow",
-            "keyword.control.conditional"
+            "keyword.control.conditional",
+            "keyword.control.loop"
          ],
          "settings": {
             "foreground": "#E66ADF"
@@ -916,14 +955,22 @@
       },
       {
          "name": "Variables minor",
-         "scope": ["variable.parameter", "variable.other.readwrite"],
+         "scope": [
+            "variable.parameter",
+            "variable.other.readwrite",
+            "variable.other.property"
+         ],
          "settings": {
             "foreground": "#E5C07B"
          }
       },
       {
          "name": "Functions",
-         "scope": ["entity.name.function", "variable.other.readwrite.alias", "constant.numeric"],
+         "scope": [
+            "entity.name.function",
+            "variable.other.readwrite.alias",
+            "constant.numeric"
+         ],
          "settings": {
             "foreground": "#F07178"
          }
@@ -936,7 +983,8 @@
             "entity.name.type.class",
             "variable",
             "variable.other.object",
-            "support.variable.property"
+            "support.other.variable",
+            ""
          ],
          "settings": {
             "foreground": "#61AFEF"

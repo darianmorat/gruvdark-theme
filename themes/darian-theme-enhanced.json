@@ -1,5 +1,6 @@
 {
    "name": "Darian Theme Enhanced",
+   "semanticHighlighting": true,
    "colors": {
       "foreground": "#cccccc",
       "focusBorder": "#007fd4",
@@ -324,7 +325,7 @@
             "keyword.other.special-method"
          ],
          "settings": {
-            "foreground": "#82AAFF"
+            "foreground": "#F07178"
          }
       },
       {
@@ -354,7 +355,7 @@
             "keyword.other"
          ],
          "settings": {
-            "foreground": "#F78C6C"
+            "foreground": "#61AFEF"
          }
       },
       {
@@ -385,7 +386,7 @@
             "support.type.sys-types"
          ],
          "settings": {
-            "foreground": "#FFCB6B"
+            "foreground": "#E5C07B"
          }
       },
       {
@@ -830,6 +831,20 @@
       },
 
       {
+         "name": "HTML",
+         "scope": ["text.html.derivative"],
+         "settings": {
+            "foreground": "#D4D4D4"
+         }
+      },
+      {
+         "name": "test",
+         "scope": ["keyword.operator.relational.js"],
+         "settings": {
+            "foreground": "#08FF08"
+         }
+      },
+      {
          "name": "CSS main symbol",
          "scope": ["entity.name.tag.css"],
          "settings": {
@@ -931,7 +946,8 @@
             "storage.type",
             "keyword.operator",
             "keyword.control.flow",
-            "keyword.control.conditional"
+            "keyword.control.conditional",
+            "keyword.control.loop"
          ],
          "settings": {
             "foreground": "#E66ADF"
@@ -939,7 +955,11 @@
       },
       {
          "name": "Variables minor",
-         "scope": ["variable.parameter", "variable.other.readwrite"],
+         "scope": [
+            "variable.parameter",
+            "variable.other.readwrite",
+            "variable.other.property"
+         ],
          "settings": {
             "foreground": "#E5C07B"
          }
@@ -963,7 +983,8 @@
             "entity.name.type.class",
             "variable",
             "variable.other.object",
-            "support.variable.property"
+            "support.other.variable",
+            ""
          ],
          "settings": {
             "foreground": "#61AFEF"

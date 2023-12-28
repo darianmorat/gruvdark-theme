@@ -1,6 +1,6 @@
-<!-- ## 1.1.1
+## 1.2.0
 
-- Update information README.dm -->
+- Update syntax color 
 
 ## 1.1.0
 

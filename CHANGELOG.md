@@ -1,3 +1,7 @@
+## 1.2.2
+
+- Update syntax color 
+
 ## 1.2.1
 
 - Update README.dm

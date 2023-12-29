@@ -837,18 +837,17 @@
             "foreground": "#D4D4D4"
          }
       },
-      {
-         "name": "test",
-         "scope": ["keyword.operator.relational.js"],
-         "settings": {
-            "foreground": "#08FF08"
-         }
-      },
+
       {
          "name": "CSS main symbol",
-         "scope": ["entity.name.tag.css"],
+         "scope": [
+            "entity.other.attribute-name.class.css",
+            "entity.other.attribute-name.pseudo-class.css",
+            "punctuation.definition.entity.css",
+            "entity.other.attribute-name"
+         ],
          "settings": {
-            "foreground": "#F05C64"
+            "foreground": "#F07178"
          }
       },
       {
@@ -860,17 +859,34 @@
             "support.type.property-name.media.css"
          ],
          "settings": {
-            "foreground": "#FFFFFF9B"
+            "foreground": "#61AFEF"
+         }
+      },
+      {
+         "name": "CSS results",
+         "scope": [
+            "support.constant.property-value.css",
+            "support.constant.color.css",
+            "support.constant.font-name.css",
+            "support.constant.color.w3c-standard-color-name.css",
+            "constant.other.color.rgb-value.hex.css",
+            "punctuation.definition.constant.css",
+            "support.function.transform.css"
+         ],
+         "settings": {
+            "foreground": "#E5C07B"
          }
       },
       {
          "name": "CSS results",
          "scope": [
             "constant.numeric.css",
-            "support.constant.property-value.css",
-            "support.constant.color",
-            "entity.other.attribute-name.class.css",
-            "support.constant.font-name.css"
+            "keyword.other.unit.percentage.css",
+            "keyword.other.unit.px.css",
+            "keyword.other.unit.fr.css",
+            "keyword.other.unit.vh.css",
+            "support.function.misc.css",
+            "keyword.other.unit"
          ],
          "settings": {
             "foreground": "#D19A66"
@@ -879,21 +895,11 @@
       {
          "name": "CSS results",
          "scope": [
-            "keyword.other.unit.percentage.css",
-            "keyword.other.unit.px.css",
-            "keyword.other.unit.fr.css",
-            "keyword.other.unit.vh.css"
-         ],
-         "settings": {
-            "foreground": "#F05C64"
-         }
-      },
-      {
-         "name": "CSS results",
-         "scope": [
             "keyword.control.at-rule.media.css",
             "keyword.control.at-rule.import.css",
-            "punctuation.definition.keyword.css"
+            "punctuation.definition.keyword.css",
+            "variable.argument.css",
+            "variable.css"
          ],
          "settings": {
             "foreground": "#E66ADF"

@@ -1,4 +1,4 @@
-b<!-- Cover image -->
+<!-- Cover image -->
 
 ## Screenshots
 

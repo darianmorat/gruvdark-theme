@@ -939,7 +939,8 @@
             "keyword.operator.logical",
             "keyword.operator.comparison",
             "keyword.operator.increment",
-            "keyword.operator.decrement"
+            "keyword.operator.decrement",
+            "keyword.operator.relational.js"
          ],
          "settings": {
             "foreground": "#61AFEF"

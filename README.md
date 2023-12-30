@@ -1,4 +1,4 @@
-<!-- Cover image -->
+b<!-- Cover image -->
 
 ## Screenshots
 
@@ -42,6 +42,9 @@ For those who want a Visual Studio Code more simplistic without all the extra in
    "workbench.layoutControl.enabled": false,
    "breadcrumbs.enabled": false,
    "window.title": " ",
+
+   "editor.scrollbar.vertical": "hidden",
+   "editor.scrollbar.horizontal": "hidden",
 ```
 
 Also if you wanna remove the extra decoration color of the brackets you can add this on your settings.json:

@@ -3,7 +3,7 @@
    "semanticHighlighting": true,
    "colors": {
       "foreground": "#cccccc",
-      "focusBorder": "#393A47",
+      "focusBorder": "#007fd4",
       "activityBar.background": "#1A1B26",
       "editorGutter.background": "#1A1B26",
       "terminal.background": "#1A1B26",

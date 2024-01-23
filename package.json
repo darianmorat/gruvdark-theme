@@ -3,7 +3,7 @@
    "displayName": "Darian Theme",
    "description": "Elegant, detailed & high quality - Color syntax", 
    "icon": "images/logo.png",
-   "version": "1.3.2",
+   "version": "1.3.3",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -23,8 +23,7 @@
       "theme",
       "darktheme",
       "dariantheme",
-      "vscode",
-      "onedarkpro"
+      "vscode"
    ],
    "contributes": {
       "themes": [

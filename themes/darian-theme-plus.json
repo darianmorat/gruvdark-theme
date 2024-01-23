@@ -23,6 +23,8 @@
       "sideBar.background": "#121b25",
       "selection.background": "#256aa7",
       "scrollbar.shadow": "#000000",
+      "editorOverviewRuler.background": "#161f2b",
+      "editorOverviewRuler.border": "#141c26",
       "activityBar.foreground": "#ffffff",
       "activityBar.inactiveForeground": "#ffffff60",
       "activityBarBadge.foreground": "#ffffff",
@@ -111,8 +113,6 @@
       "editorBracketMatch.background": "#0064001a",
       "editorBracketMatch.border": "#888888",
       "editor.foldBackground": "#264f784d",
-      "editorOverviewRuler.background": "#121b25",
-      "editorOverviewRuler.border": "#00000052",
       "editorError.foreground": "#f48771",
       "editorError.background": "#B73A3400",
       "editorError.border": "#ffffff00",
@@ -310,7 +310,11 @@
       },
       {
          "name": "Tag",
-         "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
+         "scope": [
+            "entity.name.tag",
+            "meta.tag.sgml",
+            "markup.deleted.git_gutter"
+         ],
          "settings": {
             "foreground": "#f07178"
          }

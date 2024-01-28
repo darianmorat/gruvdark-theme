@@ -26,7 +26,7 @@
       "statusBar.background": "#2a2b2e",
       "input.background": "#35383d",
       "editorGroup.border": "#0000002e",
-      "scrollbar.shadow": "#000000",
+      "scrollbar.shadow": "#1a1a1a",
       "activityBar.foreground": "#ffffff",
       "activityBar.inactiveForeground": "#ffffff60",
       "activityBarBadge.foreground": "#ffffff",

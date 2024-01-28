@@ -16,17 +16,22 @@ You can install this theme through the [Visual Studio Marketplace](https://marke
 
 ### Darian Theme
 
-![Darian Theme](images/darian-theme.png)
+![Darian Theme](images/theme.png)
+&nbsp;
+
+### Darian Theme Dimmed
+
+![Darian Theme](images/theme-dimmed.png)
 &nbsp;
 
 ### Darian Theme Enhanced
 
-![Darian Theme Enhanced](images/darian-theme-enhanced.png)
+![Darian Theme Enhanced](images/theme-enhanced.png)
 &nbsp;
 
 ### Darian Theme Plus
 
-![Darian Theme Plus](images/darian-theme-plus.png)
+![Darian Theme Plus](images/theme-plus.png)
 &nbsp;
 
 ### Extra
@@ -44,17 +49,22 @@ You can also add transparency to your theme with [Glasslt-VSC](https://marketpla
 
 ### Darian Theme - Modified
 
-![Darian Theme - Modify](images/darian-theme-modified.png)
+![Darian Theme - Modify](images/mtheme.png)
+&nbsp;
+
+### Darian Theme Dimmed - Modified
+
+![Darian Theme](images/mtheme-dimmed.png)
 &nbsp;
 
 ### Darian Theme Enhanced - Modified
 
-![Darian Theme Enhanced - Modify](images/darian-theme-enhanced-modified.png)
+![Darian Theme Enhanced - Modify](images/mtheme-enhanced.png)
 &nbsp;
 
 ### Darian Theme Plus - Modified
 
-![Darian Theme Plus - Modify](images/darian-theme-plus-modified.png)
+![Darian Theme Plus - Modify](images/mtheme-plus.png)
 &nbsp;
 
 ---

@@ -1,3 +1,7 @@
+## 1.4.0
+
+- New theme release
+
 ## 1.3.0
 
 - Update color syntax

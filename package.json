@@ -1,9 +1,9 @@
 {
    "name": "darian-theme",
    "displayName": "Darian Theme",
-   "description": "Elegant, detailed & high quality - Color syntax", 
+   "description": "Elegant, detailed & high quality - Color syntax",
    "icon": "images/logo.png",
-   "version": "1.3.3",
+   "version": "1.4.0",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -23,6 +23,7 @@
       "theme",
       "darktheme",
       "dariantheme",
+      "darian",
       "vscode"
    ],
    "contributes": {
@@ -33,14 +34,19 @@
             "path": "./themes/darian-theme.json"
          },
          {
-            "label": "Darian Theme Plus",
+            "label": "Darian Theme Dimmed",
             "uiTheme": "vs-dark",
-            "path": "./themes/darian-theme-plus.json"
+            "path": "./themes/darian-theme-dimmed.json"
          },
          {
             "label": "Darian Theme Enhanced",
             "uiTheme": "vs-dark",
             "path": "./themes/darian-theme-enhanced.json"
+         },
+         {
+            "label": "Darian Theme Plus",
+            "uiTheme": "vs-dark",
+            "path": "./themes/darian-theme-plus.json"
          }
       ]
    }

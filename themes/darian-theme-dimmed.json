@@ -4,6 +4,8 @@
    "colors": {
       "foreground": "#cccccc",
       "focusBorder": "#007fd4",
+      "activityBar.border": "#00000045",
+      "titleBar.border": "#00000045",
       "selection.background": "#256aa7",
       "editorOverviewRuler.background": "#2c2d31",
       "editorOverviewRuler.border": "#2a2b2e",
@@ -62,7 +64,6 @@
       "titleBar.activeForeground": "#cccccc",
       "titleBar.inactiveBackground": "#252525",
       "titleBar.inactiveForeground": "#cccccc99",
-      "titleBar.border": "#00000060",
       "menubar.selectionForeground": "#cccccc",
       "menubar.selectionBackground": "#ffffff1a",
       "menu.foreground": "#cccccc",

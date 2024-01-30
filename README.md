@@ -9,8 +9,8 @@ You can install this theme through the [Visual Studio Marketplace](https://marke
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
 2. Search for `Darian Theme`
 3. Click **Install**
-5. _File > Preferences > Settings > Workbench > Color Theme >_ **Darian Theme**
-6. That's it...
+4. _File > Preferences > Settings > Workbench > Color Theme >_ **Darian Theme**
+5. That's it...
 
 &nbsp;
 
@@ -38,11 +38,11 @@ You can install this theme through the [Visual Studio Marketplace](https://marke
 
 ---
 
-You can also add transparency to your theme with [Glasslt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit)
+You can also improve your **vscode setup** with two amazing extensions, [Glasslt-VSC](https://marketplace.visualstudio.com/items?itemName=s-nlf-fh.glassit) & [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension)
 
 1. Open **Extensions** sidebar panel in VS Code. `View → Extensions`
-2. Search for `Glasslt-VSC`
-3. Click **Install**
+2. Search for `Glasslt-VSC` & `Apc Customize UI++`
+3. Click **Install** on both of them
 4. Modify to preference
 
 &nbsp;
@@ -52,7 +52,25 @@ You can also add transparency to your theme with [Glasslt-VSC](https://marketpla
 ![Darian Theme - Modify](images/mtheme.png)
 &nbsp;
 
+```json
+   // settings.json
+
+   "glassit.alpha": 240,
+   "window.titleBarStyle": "native",
+   "apc.menubar.compact": true,
+   "apc.electron": {
+      "frame": false
+   },
+
+   "workbench.activityBar.location": "hidden",
+   "editor.minimap.enabled": false,
+   "breadcrumbs.enabled": false,
+
+```
+
 ---
 
 Theme created by <a href="https://github.com/darianmorat">Darian Toledo</a> ✨ <br />
 Enjoy it
+
+<!-- Add the screenshots as usual with vscode default after that u recommend the Glassit and APC++ for custom -->

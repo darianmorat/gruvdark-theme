@@ -65,6 +65,8 @@ You can also improve your **vscode setup** with two amazing extensions, [Glasslt
    "workbench.activityBar.location": "hidden",
    "editor.minimap.enabled": false,
    "breadcrumbs.enabled": false,
+   "window.commandCenter": false,
+   "workbench.layoutControl.enabled": false,
 
 ```
 

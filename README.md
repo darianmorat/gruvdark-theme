@@ -1,7 +1,6 @@
 <!-- Cover image -->
-
----
----
+<!-- ---
+--- -->
 
 ### Darian Theme
 
@@ -38,7 +37,7 @@ You can customize your **vscode** with [Apc Customize UI++](https://marketplace.
    "apc.menubar.compact": true,
    "apc.electron": {
       "frame": false,
-      "opacity": 0.94
+      "opacity": 0.95
    },
 
    "workbench.activityBar.location": "hidden",

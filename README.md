@@ -1,6 +1,5 @@
-<!-- Cover image -->
-<!-- ---
---- -->
+> **Note:**
+> This theme was mainly made for HTML, CSS & JAVASCRIPT, _if it looks bad on JAVA OR RUST... Later would be better, I promise :)_. With more time, It would be focus for every single language.
 
 ### Darian Theme
 

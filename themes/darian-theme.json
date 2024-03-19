@@ -24,7 +24,7 @@
       "panel.border": "#191919",
       "sideBar.background": "#191919",
       "selection.background": "#256aa7",
-      "scrollbar.shadow": "#000000",
+      "scrollbar.shadow": "#000000b4",
       "editorOverviewRuler.background": "#1c1c1c",
       "editorOverviewRuler.border": "#171717",
       "activityBar.foreground": "#ffffff",

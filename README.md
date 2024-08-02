@@ -1,5 +1,5 @@
 > **Note:**
-> This theme was mainly made for HTML, CSS & JAVASCRIPT, _if it looks bad on JAVA OR RUST... Later would be better, I promise :)_. With more time, It would be focus for every single language.
+> This theme is focus on HTML, CSS & JAVASCRIPT, later on it would support more languages.
 
 ### Darian Theme
 
@@ -29,24 +29,22 @@
 ![Darian Theme - Modify](images/mtheme.png)
 &nbsp;
 
-You can customize your **vscode** with [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) and a few aditional configurations on your `settings.json`. 
+You can customize your **vscode** with [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) and a few aditional settings on your `settings.json`. 
 
 ```json
    "window.titleBarStyle": "native",
-   "apc.menubar.compact": true,
    "apc.electron": {
       "frame": false,
-      "opacity": 0.95
+      "opacity": 0.97
    },
 
-   "workbench.activityBar.location": "hidden",
-   "editor.minimap.enabled": false,
-   "breadcrumbs.enabled": false,
    "window.commandCenter": false,
    "workbench.layoutControl.enabled": false,
-
+   "editor.minimap.enabled": false,
+   "breadcrumbs.enabled": false,
+   "workbench.activityBar.location": "hidden",
    "editor.fontFamily": "Jetbrains Mono",
-   "workbench.iconTheme": "nonicons", 
+   "workbench.colorTheme": "Darian Theme",
 ```
 
 ---

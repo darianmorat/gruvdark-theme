@@ -8,7 +8,6 @@
       "titleBar.border": "#00000045",
       "selection.background": "#256aa7",
       "input.background": "#35383d",
-      "editorGroup.border": "#0000002e",
       "scrollbar.shadow": "#1a1a1a",
       "activityBar.foreground": "#ffffff",
       "activityBar.inactiveForeground": "#ffffff60",
@@ -88,7 +87,6 @@
       "textLink.foreground": "#3794ff",
       "editor.foreground": "#d4d4d4",
       "editorLineNumber.foreground": "#858585",
-      "editorCursor.foreground": "#aeafad",
       "editorCursor.background": "#000000",
       "editor.selectionBackground": "#253a61c4",
       "editor.inactiveSelectionBackground": "#3b465aab",
@@ -109,8 +107,6 @@
       "editor.lineHighlightBorder": "#00000000",
       "editorLineNumber.activeForeground": "#cacaca",
       "editorLink.activeForeground": "#4e94ce",
-      "editorIndentGuide.background1": "#404040",
-      "editorIndentGuide.activeBackground1": "#707070",
       "editorRuler.foreground": "#5a5a5a",
       "editorBracketMatch.background": "#0064001a",
       "editorBracketMatch.border": "#888888",
@@ -146,9 +142,7 @@
       "terminal.ansiBlack": "#000000",
       "terminal.ansiBlue": "#2472c8",
       "terminal.ansiBrightBlack": "#666666",
-      "terminal.ansiBrightBlue": "#3b8eea",
       "terminal.ansiBrightCyan": "#29b8db",
-      "terminal.ansiBrightGreen": "#23d18b",
       "terminal.ansiBrightMagenta": "#d670d6",
       "terminal.ansiBrightRed": "#f14c4c",
       "terminal.ansiBrightWhite": "#e5e5e5",
@@ -251,7 +245,15 @@
       "breadcrumb.activeSelectionForeground": "#e0e0e0",
       "editorGutter.commentRangeForeground": "#c5c5c5",
       "debugExceptionWidget.background": "#333333",
-      "debugExceptionWidget.border": "#474747"
+      "debugExceptionWidget.border": "#474747",
+
+      "editorCursor.foreground": "#cecece",
+      "terminal.ansiBrightBlue": "#538ad4",
+      "terminal.ansiBrightGreen": "#11b97d",
+      "editorPane.background": "#27292c",
+      "editorGroup.border": "#3f3f3f",
+      "editorIndentGuide.background1": "#3f3f3f",
+      "editorIndentGuide.activeBackground1": "#616161"
    },
    "tokenColors": [
       {

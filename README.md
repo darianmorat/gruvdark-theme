@@ -21,8 +21,6 @@
 ![Darian Theme Plus](images/theme-plus.png)
 &nbsp;
 
----
-
 ### DTheme Modified
 
 ![Darian Theme - Modify](images/mtheme.png)
@@ -40,8 +38,6 @@ You can customize your **vscode** with [Apc Customize UI++](https://marketplace.
    "breadcrumbs.enabled": false,
    "workbench.activityBar.location": "hidden",
 ```
-
----
 
 ### Inspirations
 

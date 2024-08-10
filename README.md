@@ -24,7 +24,6 @@
 ### DTheme Modified
 
 ![Darian Theme - Modify](images/mtheme.png)
-&nbsp;
 
 You can customize your **vscode** with [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) and a few aditional settings on your `settings.json`.
 

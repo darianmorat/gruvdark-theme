@@ -4,9 +4,7 @@
    "colors": {
       "foreground": "#cccccc",
       "focusBorder": "#007fd4",
-      "activityBar.border": "#00000050",
       "titleBar.border": "#00000050",
-      "activityBar.background": "#1A1B26",
       "editorGutter.background": "#1A1B26",
       "terminal.background": "#1A1B26",
       "breadcrumb.background": "#1A1B26",
@@ -17,8 +15,6 @@
       "titleBar.activeBackground": "#1A1B26",
       "sideBarSectionHeader.background": "#161720",
       "editor.background": "#1a1b26",
-      "editorGroupHeader.tabsBackground": "#161720",
-      "tab.inactiveBackground": "#161720",
       "statusBar.background": "#161720",
       "panel.background": "#161720",
       "panel.border": "#161720",
@@ -53,7 +49,6 @@
       "statusBar.debuggingForeground": "#ffffff",
       "statusBar.noFolderBackground": "#68217a",
       "statusBar.noFolderForeground": "#ffffff",
-      "statusBarItem.remoteBackground": "#16825d",
       "statusBarItem.remoteForeground": "#ffffff",
       "titleBar.activeForeground": "#cccccc",
       "titleBar.inactiveBackground": "#1E1F2C",
@@ -253,7 +248,12 @@
       "editorGroupHeader.noTabsBackground": "#181923",
       "editorOverviewRuler.border": "#181923",
       "sideBar.border": "#181923",
-      "statusBar.border": "#181923"
+      "statusBar.border": "#181923",
+      "statusBarItem.remoteBackground": "#00000000",
+      "editorGroupHeader.tabsBackground": "#181923",
+      "tab.inactiveBackground": "#181923",
+      "activityBar.background": "#181923",
+      "activityBar.border": "#181923"
    },
    "tokenColors": [
       {

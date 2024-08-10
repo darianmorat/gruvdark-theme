@@ -4,9 +4,7 @@
    "colors": {
       "foreground": "#cccccc",
       "focusBorder": "#007fd4",
-      "activityBar.border": "#00000050",
       "titleBar.border": "#00000050",
-      "activityBar.background": "#1e1e1e",
       "editorGutter.background": "#1e1e1e",
       "terminal.background": "#1e1e1e",
       "breadcrumb.background": "#1e1e1e",
@@ -16,8 +14,6 @@
       "editorGroup.emptyBackground": "#1e1e1e",
       "titleBar.activeBackground": "#1e1e1e",
       "editor.background": "#1e1e1e",
-      "editorGroupHeader.tabsBackground": "#191919",
-      "tab.inactiveBackground": "#191919",
       "panel.border": "#191919",
       "selection.background": "#256aa7",
       "editorOverviewRuler.background": "#1c1c1c",
@@ -253,7 +249,11 @@
       "sideBarSectionHeader.background": "#1b1b1b",
       "panel.background": "#1b1b1b",
       "editorGroupHeader.noTabsBackground": "#1c1c1c",
-      "statusBarItem.remoteBackground": "#00000000"
+      "statusBarItem.remoteBackground": "#00000000",
+      "editorGroupHeader.tabsBackground": "#1c1c1c",
+      "tab.inactiveBackground": "#1c1c1c",
+      "activityBar.background": "#1c1c1c",
+      "activityBar.border": "#1c1c1c"
    },
    "tokenColors": [
       {

@@ -14,7 +14,6 @@
       "editorGroup.emptyBackground": "#1e1e1e",
       "titleBar.activeBackground": "#1e1e1e",
       "editor.background": "#1e1e1e",
-      "panel.border": "#191919",
       "selection.background": "#256aa7",
       "editorOverviewRuler.background": "#1c1c1c",
       "activityBar.foreground": "#ffffff",
@@ -238,12 +237,9 @@
       "terminal.ansiBrightGreen": "#11b97d",
       "editorPane.background": "#1b1b1b",
       "scrollbar.shadow": "#0000009b",
-      "editorGroup.border": "#3c3c3c",
       "editorIndentGuide.background1": "#3c3c3c",
       "editorIndentGuide.activeBackground1": "#616161",
       "statusBar.background": "#1b1b1b",
-      "statusBar.border": "#1b1b1b",
-      "editorOverviewRuler.border": "#1c1c1c",
       "sideBar.border": "#1b1b1b",
       "sideBar.background": "#1b1b1b",
       "sideBarSectionHeader.background": "#1b1b1b",
@@ -253,7 +249,11 @@
       "editorGroupHeader.tabsBackground": "#1c1c1c",
       "tab.inactiveBackground": "#1c1c1c",
       "activityBar.background": "#1c1c1c",
-      "activityBar.border": "#1c1c1c"
+      "activityBar.border": "#1c1c1c",
+      "statusBar.border": "#474747",
+      "editorGroup.border": "#474747",
+      "panel.border": "#474747",
+      "editorOverviewRuler.border": "#2f2f2f"
    },
    "tokenColors": [
       {
@@ -387,6 +387,7 @@
             "entity.name",
             "support.type",
             "support.class",
+            "entity.name.type.class",
             "support.other.namespace.use.php",
             "meta.use.php",
             "support.other.namespace.php",
@@ -394,7 +395,7 @@
             "support.type.sys-types"
          ],
          "settings": {
-            "foreground": "#E5C07B"
+            "foreground": "#D4D4D4"
          }
       },
       {
@@ -981,13 +982,9 @@
       },
       {
          "name": "Functions",
-         "scope": [
-            "entity.name.function",
-            "variable.other.readwrite.alias",
-            "constant.numeric"
-         ],
+         "scope": ["variable.other.readwrite.alias", "constant.numeric"],
          "settings": {
-            "foreground": "#F07178"
+            "foreground": "#61AFEF"
          }
       },
       {
@@ -995,11 +992,9 @@
          "scope": [
             "variable.other.constant",
             "variable.language.this",
-            "entity.name.type.class",
             "variable",
             "variable.other.object",
-            "support.other.variable",
-            ""
+            "support.other.variable"
          ],
          "settings": {
             "foreground": "#61AFEF"

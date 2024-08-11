@@ -26,7 +26,6 @@
       "editorGroup.emptyBackground": "#2a2c2f",
       "editor.background": "#2a2c2f",
       "panel.background": "#26282b",
-      "panel.border": "#26282b",
       "sideBar.background": "#26282b",
       "statusBar.background": "#26282b",
       "list.inactiveSelectionBackground": "#2e3135",
@@ -240,20 +239,21 @@
       "terminal.ansiBrightBlue": "#538ad4",
       "terminal.ansiBrightGreen": "#11b97d",
       "editorPane.background": "#27292c",
-      "editorGroup.border": "#3f3f3f",
       "editorIndentGuide.background1": "#3f3f3f",
       "editorIndentGuide.activeBackground1": "#616161",
       "editorGroupHeader.noTabsBackground": "#292b2e",
-      "editorOverviewRuler.border": "#00000000",
       "statusBarItem.remoteBackground": "#00000000",
-      "statusBar.border": "#26282b",
       "sideBar.border": "#26282b",
       "editorOverviewRuler.background": "#292b2d",
       "editorGroupHeader.tabsBackground": "#282a2c",
       "tab.inactiveBackground": "#282a2c",
       "activityBar.background": "#282a2c",
       "activityBar.border": "#282a2c",
-      "titleBar.border": "#0000002f"
+      "titleBar.border": "#0000002f",
+      "statusBar.border": "#474747",
+      "editorGroup.border": "#474747",
+      "panel.border": "#474747",
+      "editorOverviewRuler.border": "#393939"
    },
    "tokenColors": [
       {
@@ -387,6 +387,7 @@
             "entity.name",
             "support.type",
             "support.class",
+            "entity.name.type.class",
             "support.other.namespace.use.php",
             "meta.use.php",
             "support.other.namespace.php",
@@ -394,7 +395,7 @@
             "support.type.sys-types"
          ],
          "settings": {
-            "foreground": "#E5C07B"
+            "foreground": "#D4D4D4"
          }
       },
       {
@@ -981,13 +982,9 @@
       },
       {
          "name": "Functions",
-         "scope": [
-            "entity.name.function",
-            "variable.other.readwrite.alias",
-            "constant.numeric"
-         ],
+         "scope": ["variable.other.readwrite.alias", "constant.numeric"],
          "settings": {
-            "foreground": "#F07178"
+            "foreground": "#61AFEF"
          }
       },
       {
@@ -995,11 +992,9 @@
          "scope": [
             "variable.other.constant",
             "variable.language.this",
-            "entity.name.type.class",
             "variable",
             "variable.other.object",
-            "support.other.variable",
-            ""
+            "support.other.variable"
          ],
          "settings": {
             "foreground": "#61AFEF"

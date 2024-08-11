@@ -41,7 +41,7 @@ You can customize your **vscode** with [Apc Customize UI++](https://marketplace.
 ### Inspirations
 
 -  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Vivid syntax colors.
--  [VSCode Default]() - Background & Details to borders.
+-  [VSCode Default]() - Background & Detail to borders.
 -  [Github Theme](https://github.com/primer/github-vscode-theme) - Dimmed and highlighting.
 
 ---

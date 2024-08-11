@@ -309,7 +309,7 @@
             "keyword.other.substitution"
          ],
          "settings": {
-            "foreground": "#89DDFF"
+            "foreground": "#61AFEF"
          }
       },
       {
@@ -330,7 +330,8 @@
             "meta.function-call",
             "variable.function",
             "support.function",
-            "keyword.other.special-method"
+            "keyword.other.special-method",
+            "constant.numeric.decimal.js"
          ],
          "settings": {
             "foreground": "#F07178"
@@ -353,7 +354,6 @@
       {
          "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
          "scope": [
-            "constant.numeric",
             "constant.language",
             "support.constant",
             "constant.character",
@@ -510,14 +510,14 @@
          "name": "Regular Expressions",
          "scope": ["string.regexp"],
          "settings": {
-            "foreground": "#89DDFF"
+            "foreground": "#F07178"
          }
       },
       {
          "name": "Escape Characters",
          "scope": ["constant.character.escape"],
          "settings": {
-            "foreground": "#89DDFF"
+            "foreground": "#F07178"
          }
       },
       {

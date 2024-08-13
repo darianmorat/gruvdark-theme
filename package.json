@@ -1,9 +1,9 @@
 {
    "name": "darian-theme",
    "displayName": "Darian Theme",
-   "description": "Cool & detailed - Color syntax",
+   "description": "Nice, warm & detailed color syntax ",
    "icon": "images/logo.png",
-   "version": "1.5.7",
+   "version": "1.5.8",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -22,8 +22,8 @@
    "keywords": [
       "theme",
       "darktheme",
-      "dariantheme",
-      "onedark"
+      "vscode",
+      "dariantheme"
    ],
    "contributes": {
       "themes": [

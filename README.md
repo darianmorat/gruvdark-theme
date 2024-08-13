@@ -3,40 +3,23 @@
 
 ### DTheme
 
-![Darian Theme](images/theme.png)
+![DTheme](images/dtheme.png)
 &nbsp;
 
 ### DTheme Dimmed
 
-![Darian Theme](images/theme-dimmed.png)
+![DTheme Dimmed](images/dtheme-dimmed.png)
 &nbsp;
 
 ### DTheme Tokyo
 
-![Darian Theme Enhanced](images/theme-enhanced.png)
+![DTheme Tokyo](images/dtheme-tokyo.png)
 &nbsp;
 
 ### DTheme Deep
 
-![Darian Theme Plus](images/theme-plus.png)
+![DTheme Deep](images/dtheme-deep.png)
 &nbsp;
-
-### DTheme Modified
-
-![Darian Theme - Modify](images/mtheme.png)
-
-You can customize your **vscode** with [Apc Customize UI++](https://marketplace.visualstudio.com/items?itemName=drcika.apc-extension) and a few aditional settings on your `settings.json`.
-
-```json
-   "window.titleBarStyle": "native",
-   "apc.electron": { "frame": false },
-
-   "window.commandCenter": false,
-   "workbench.layoutControl.enabled": false,
-   "editor.minimap.enabled": false,
-   "breadcrumbs.enabled": false,
-   "workbench.activityBar.location": "hidden",
-```
 
 ### Inspirations
 

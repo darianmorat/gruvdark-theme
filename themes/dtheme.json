@@ -387,7 +387,7 @@
             "support.type.sys-types"
          ],
          "settings": {
-            "foreground": "#52a4a8"
+            "foreground": "#4db0bd"
          }
       },
       {
@@ -631,7 +631,6 @@
             "foreground": "#e76565"
          }
       },
-
       {
          "name": "Letters JSON",
          "scope": [
@@ -642,7 +641,6 @@
             "foreground": "#D19A66"
          }
       },
-
       {
          "name": "Markdown - Plain",
          "scope": [
@@ -808,7 +806,6 @@
             "foreground": "#EEFFFF"
          }
       },
-
       {
          "name": "HTML symbols",
          "scope": [
@@ -830,7 +827,6 @@
             "foreground": "#9266da"
          }
       },
-
       {
          "name": "HTML",
          "scope": ["text.html.derivative"],
@@ -838,7 +834,6 @@
             "foreground": "#d7cdbc"
          }
       },
-
       {
          "name": "CSS main symbol",
          "scope": [
@@ -906,7 +901,6 @@
             "foreground": "#db63c5"
          }
       },
-
       {
          "name": "brackets",
          "scope": ["punctuation", "meta.brace.square", "meta.brace.round"],

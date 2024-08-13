@@ -1,12 +1,13 @@
-### Pending:
+### Pending to fix:
 
-**Support:** Right now the main focus is on html, css & javascript.
-
-**New Theme:** Add Dtheme Light.
-
+**Support:** Right now the main focus is on html, css & javascript.<br>
+**New Theme:** Add Dtheme Light.<br>
 **Changes README:** Visual color palette like [gruvbox](https://github.com/morhetz/gruvbox/tree/master) repository.
 
-**Changes theme:**
+**Main changes theme:**
+<br>Contributions are more than welcome
+
+-  Blink color with #DCAE66 (Mainly for Document selector)
 -  Inbox and inputs borders for _"all themes"_ (matching color theme).
 -  Foreground in sidebar, statusbar, etc. dimmed like dtheme.
 -  Input colors adjust for _"dimmed, tokyo & deep"_ (maching color theme).

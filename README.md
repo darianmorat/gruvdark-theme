@@ -1,5 +1,12 @@
-> **Note:**
-> Main focus on HTML, CSS & JAVASCRIPT, later on it would support more languages.
+### Pending:
+
+> **Support:** Right now the main focus is on html, css & javascript.
+
+> **New Theme:** Dtheme Light.
+
+> **Changes theme:** Inbox and inputs blue border - Foreground in sidebar and statusbar like dtheme. Colors abjust for dimmed, tokyo & deep.
+
+> **Changes README:** Visual color palette like [gruvbox](https://github.com/morhetz/gruvbox/tree/master) repository.
 
 ### DTheme
 
@@ -23,9 +30,11 @@
 
 ### Inspirations
 
--  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Color palette.
+-  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Color palette high contrast.
 -  [Gruvbox](https://github.com/sainnhe/gruvbox-material-vscode) - Warm colors and logic.
--  [VSCode Default]() - Background & Detail to borders.
+-  [VSCode Default]() - Background and borders.
+
+&nbsp;
 
 ---
 

@@ -1,3 +1,8 @@
+## 1.6.0
+
+- Mayor Update color syntax
+- UI color changed
+
 ## 1.4.0
 
 - New theme release

@@ -261,14 +261,14 @@
          "scope": ["comment", "punctuation.definition.comment"],
          "settings": {
             "fontStyle": "",
-            "foreground": "#7F848E"
+            "foreground": "#7f7e7a"
          }
       },
       {
          "name": "Variables",
-         "scope": ["variable", "string constant.other.placeholder"],
+         "scope": ["variable"],
          "settings": {
-            "foreground": "#EEFFFF"
+            "foreground": "#d7cdbc"
          }
       },
       {
@@ -309,7 +309,7 @@
             "keyword.other.substitution"
          ],
          "settings": {
-            "foreground": "#51a0e1"
+            "foreground": "#518ede"
          }
       },
       {
@@ -355,7 +355,7 @@
             "keyword.other"
          ],
          "settings": {
-            "foreground": "#51a0e1"
+            "foreground": "#518ede"
          }
       },
       {
@@ -387,7 +387,7 @@
             "support.type.sys-types"
          ],
          "settings": {
-            "foreground": "#c6c6c6"
+            "foreground": "#52a4a8"
          }
       },
       {
@@ -835,7 +835,7 @@
          "name": "HTML",
          "scope": ["text.html.derivative"],
          "settings": {
-            "foreground": "#c6c6c6"
+            "foreground": "#d7cdbc"
          }
       },
 
@@ -860,7 +860,7 @@
             "support.type.property-name.media.css"
          ],
          "settings": {
-            "foreground": "#51a0e1"
+            "foreground": "#518ede"
          }
       },
       {
@@ -903,7 +903,7 @@
             "variable.css"
          ],
          "settings": {
-            "foreground": "#de61d7"
+            "foreground": "#db63c5"
          }
       },
 
@@ -911,7 +911,7 @@
          "name": "brackets",
          "scope": ["punctuation", "meta.brace.square", "meta.brace.round"],
          "settings": {
-            "foreground": "#c6c6c6"
+            "foreground": "#d7cdbc"
          }
       },
       {
@@ -944,14 +944,14 @@
             "keyword.operator.relational.js"
          ],
          "settings": {
-            "foreground": "#DCAE66"
+            "foreground": "#518ede"
          }
       },
       {
-         "name": "variables let const",
+         "name": "variables const let",
          "scope": ["storage.type"],
          "settings": {
-            "foreground": "#E78A4E"
+            "foreground": "#518ede"
          }
       },
       {
@@ -966,45 +966,28 @@
             "storage.type.class.js"
          ],
          "settings": {
-            "foreground": "#de61d7"
-         }
-      },
-      {
-         "name": "Variables minor",
-         "scope": ["variable.parameter", "variable.other.property"],
-         "settings": {
-            "foreground": "#dcae66"
+            "foreground": "#db63c5"
          }
       },
       {
          "name": "Functions",
-         "scope": ["variable.other.readwrite.alias", "constant.numeric"],
+         "scope": ["variable.parameter"],
          "settings": {
-            "foreground": "#51a0e1"
+            "foreground": "#d7cdbc"
          }
       },
       {
-         "name": "variables",
-         "scope": [
-            "variable.other.constant",
-            "variable.language.this",
-            "variable",
-            "variable.other.object"
-         ],
-         "settings": {
-            "foreground": "#51a0e1"
-         }
-      },
-      {
-         "name": "Numbers / true false",
+         "name": "Numbers boolean",
          "scope": [
             "constant.numeric.decimal",
             "constant.language.boolean.true",
             "constant.language.boolean.false",
-            "support.other.variable"
+            "support.other.variable",
+            "variable.language.this",
+            "support.variable.property.js"
          ],
          "settings": {
-            "foreground": "#9266da"
+            "foreground": "#DCAE66"
          }
       }
    ]

@@ -1,12 +1,16 @@
 ### Pending:
 
-> **Support:** Right now the main focus is on html, css & javascript.
+**Support:** Right now the main focus is on html, css & javascript.
 
-> **New Theme:** Dtheme Light.
+**New Theme:** Add Dtheme Light.
 
-> **Changes theme:** Inbox and inputs blue border - Foreground in sidebar and statusbar like dtheme. Colors abjust for dimmed, tokyo & deep.
+**Changes README:** Visual color palette like [gruvbox](https://github.com/morhetz/gruvbox/tree/master) repository.
 
-> **Changes README:** Visual color palette like [gruvbox](https://github.com/morhetz/gruvbox/tree/master) repository.
+**Changes theme:**
+-  Inbox and inputs borders for _"all themes"_ (matching color theme).
+-  Foreground in sidebar, statusbar, etc. dimmed like dtheme.
+-  Input colors adjust for _"dimmed, tokyo & deep"_ (maching color theme).
+-  Terminal colors adjust to match color palette.
 
 ### DTheme
 

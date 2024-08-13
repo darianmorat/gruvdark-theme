@@ -4,6 +4,16 @@
 **New Theme:** Add Dtheme Light.<br>
 **Changes README:** Visual color palette like [gruvbox](https://github.com/morhetz/gruvbox/tree/master) repository.
 
+```css
+blue:   #518ede
+aqua:   #52a4a8
+red:    #E76565
+pink:   #db63c5
+yellow: #DCAE66
+green:  #8CB96C
+white:  #d7cdbc
+```
+
 **Main changes theme:**
 <br>Contributions are more than welcome
 

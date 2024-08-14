@@ -20,17 +20,12 @@ white:  #d7cdbc
 -  Blink color with #DCAE66 (Mainly for Document selector)
 -  Inbox and inputs borders for _"all themes"_ (matching color theme).
 -  Foreground in sidebar, statusbar, etc. dimmed like dtheme.
--  Input colors adjust for _"dimmed, tokyo & deep"_ (maching color theme).
+-  Input colors adjust for _"tokyo & deep"_ (maching color theme).
 -  Terminal colors adjust to match color palette.
 
 ### DTheme
 
 ![DTheme](images/dtheme.png)
-&nbsp;
-
-### DTheme Dimmed
-
-![DTheme Dimmed](images/dtheme-dimmed.png)
 &nbsp;
 
 ### DTheme Tokyo

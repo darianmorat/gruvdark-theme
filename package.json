@@ -3,7 +3,7 @@
    "displayName": "Darian Theme",
    "description": "Nice, warm & detailed color syntax ",
    "icon": "images/logo.png",
-   "version": "1.6.1",
+   "version": "1.6.2",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -33,14 +33,14 @@
             "path": "./themes/dtheme.json"
          },
          {
-            "label": "DTheme Deep",
-            "uiTheme": "vs-dark",
-            "path": "./themes/dtheme-deep.json"
-         },
-         {
             "label": "DTheme Tokyo",
             "uiTheme": "vs-dark",
             "path": "./themes/dtheme-tokyo.json"
+         },
+         {
+            "label": "DTheme Deep",
+            "uiTheme": "vs-dark",
+            "path": "./themes/dtheme-deep.json"
          }
       ]
    }

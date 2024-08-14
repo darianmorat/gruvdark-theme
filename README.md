@@ -2,26 +2,7 @@
 
 **Support:** Right now the main focus is on html, css & javascript.<br>
 **New Theme:** Add Dtheme Light.<br>
-**Changes README:** Visual color palette like [gruvbox](https://github.com/morhetz/gruvbox/tree/master) repository.
-
-```css
-blue:   #518ede
-aqua:   #52a4a8
-red:    #E76565
-pink:   #db63c5
-yellow: #DCAE66
-green:  #8CB96C
-white:  #d7cdbc
-```
-
-**Main changes theme:**
-<br>Contributions are more than welcome
-
--  Blink color with #DCAE66 (Mainly for Document selector)
--  Inbox and inputs borders for _"all themes"_ (matching color theme).
--  Foreground in sidebar, statusbar, etc. dimmed like dtheme.
--  Input colors adjust for _"tokyo & deep"_ (maching color theme).
--  Terminal colors adjust to match color palette.
+**Main changes theme:** - Inbox and inputs borders for _"all themes"_ (matching color theme). - Blink color with #DCAE66 (Mainly for Document selector)
 
 ### DTheme
 
@@ -37,6 +18,20 @@ white:  #d7cdbc
 
 ![DTheme Deep](images/dtheme-deep.png)
 &nbsp;
+
+### Color Palette
+
+<!-- **Changes README:** Visual color palette like [gruvbox](https://github.com/morhetz/gruvbox/tree/master) repository. -->
+
+```
+ blue: #5b98c9
+ aqua: #4db0bd
+ red: #db6a6a
+ pink: #db63c5
+ yellow: #d19f66
+ green: #76b568
+ white: #cdc5b8
+```
 
 ### Inspirations
 

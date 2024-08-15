@@ -21,7 +21,7 @@
 
 <!-- Visual color palette like https://github.com/morhetz/gruvbox/tree/master -->
 
-_Dtheme_
+**Dark theme:**
 
 ```
  blue: #5b98c9
@@ -34,7 +34,7 @@ _Dtheme_
  purple: #9266da
 ```
 
-_Dtheme Light_
+**Light theme:**
 
 ```
 // blue: #00579f

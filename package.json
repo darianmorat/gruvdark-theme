@@ -36,11 +36,6 @@
             "label": "DTheme Tokyo",
             "uiTheme": "vs-dark",
             "path": "./themes/dtheme-tokyo.json"
-         },
-         {
-            "label": "DTheme Deep",
-            "uiTheme": "vs-dark",
-            "path": "./themes/dtheme-deep.json"
          }
       ]
    }

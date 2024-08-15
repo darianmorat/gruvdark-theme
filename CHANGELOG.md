@@ -19,7 +19,6 @@
 ## 1.1.0
 
 - Update color syntax
-- New theme release 
 
 ## 1.0.0
 

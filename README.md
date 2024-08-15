@@ -1,8 +1,7 @@
-### Pending to fix:
+### Pending:
 
 **Support:** Right now the main focus is on html, css & javascript.<br>
 **New Theme:** Add Dtheme Light.<br>
-**Main changes theme:** - Inbox and inputs borders for _"all themes"_ (matching color theme). - Blink color with #DCAE66 (Mainly for Document selector)
 
 ### DTheme
 
@@ -14,14 +13,9 @@
 ![DTheme Tokyo](images/dtheme-tokyo.png)
 &nbsp;
 
-### DTheme Deep
-
-![DTheme Deep](images/dtheme-deep.png)
-&nbsp;
-
 ### Color Palette
 
-<!-- **Changes README:** Visual color palette like [gruvbox](https://github.com/morhetz/gruvbox/tree/master) repository. -->
+<!-- Visual color palette like https://github.com/morhetz/gruvbox/tree/master -->
 
 ```
  blue: #5b98c9

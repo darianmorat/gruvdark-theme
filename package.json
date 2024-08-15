@@ -3,7 +3,7 @@
    "displayName": "Darian Theme",
    "description": "Nice, warm & detailed color syntax ",
    "icon": "images/logo.png",
-   "version": "1.6.3",
+   "version": "1.6.4",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -27,6 +27,11 @@
    ],
    "contributes": {
       "themes": [
+         {
+            "label": "DTheme Light",
+            "uiTheme": "vs",
+            "path": "./themes/dtheme-light.json"
+         },
          {
             "label": "DTheme",
             "uiTheme": "vs-dark",

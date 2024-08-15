@@ -1,11 +1,15 @@
 ### Pending:
 
 **Support:** Right now the main focus is on html, css & javascript.<br>
-**New Theme:** Add Dtheme Light.<br>
 
 ### DTheme
 
 ![DTheme](images/dtheme.png)
+&nbsp;
+
+### DTheme Light
+
+![DTheme](images/dtheme-light.png)
 &nbsp;
 
 ### DTheme Tokyo
@@ -17,6 +21,8 @@
 
 <!-- Visual color palette like https://github.com/morhetz/gruvbox/tree/master -->
 
+_Dtheme_
+
 ```
  blue: #5b98c9
  aqua: #4db0bd
@@ -25,6 +31,20 @@
  yellow: #d19f66
  green: #76b568
  white: #cdc5b8
+ purple: #9266da
+```
+
+_Dtheme Light_
+
+```
+// blue: #00579f
+// aqua: #228592
+// red: #c01414
+// pink: #a10f86
+// yellow: #bf6702
+// green: #1a8702
+// black: #111111
+// purple: #480aab
 ```
 
 ### Inspirations

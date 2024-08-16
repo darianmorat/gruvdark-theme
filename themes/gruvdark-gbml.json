@@ -93,8 +93,8 @@
       "list.errorForeground": "#c14a4a",
       "list.warningForeground": "#b47109",
       "tree.indentGuidesStroke": "#a89984",
-      "activityBar.border": "#fbf1c7",
-      "activityBar.background": "#fbf1c7",
+      "activityBar.border": "#f0e5b9",
+      "activityBar.background": "#f0e5b9",
       "activityBar.foreground": "#7c6f64",
       "activityBar.inactiveForeground": "#a89984",
       "activityBar.dropBackground": "#fbf1c7",
@@ -103,9 +103,10 @@
       "activityBarBadge.background": "#7c6f64",
       "activityBarBadge.foreground": "#fbf1c7",
       "sideBar.foreground": "#928374",
-      "sideBar.background": "#fbf1c7",
-      "sideBarSectionHeader.background": "#e9ddb5",
+      "sideBar.background": "#ebe0b2",
+      "sideBarSectionHeader.background": "#f0e5b9",
       "sideBarTitle.foreground": "#7c6f64",
+      "sidebar.border":"#ebe0b2",
       "sideBarSectionHeader.foreground": "#7c6f64",
       "minimap.findMatchHighlight": "#89b48260",
       "minimap.selectionHighlight": "#d5c4a1f0",
@@ -114,13 +115,14 @@
       "minimapGutter.addedBackground": "#a9b665a0",
       "minimapGutter.modifiedBackground": "#7daea3a0",
       "minimapGutter.deletedBackground": "#ea6962a0",
-      "editorGroup.border": "#f2e5bc",
-      "editorGroupHeader.tabsBackground": "#ede1b8",
-      "editorGroupHeader.noTabsBackground": "#ede1b8",
+      "editorGroup.border": "#ded6b1",
+      "editorGroupHeader.tabsBackground": "#f5eac1",
+      "editorGroupHeader.noTabsBackground": "#f5eac1",
       "editorGroup.dropBackground": "#e0cfa960",
-      "tab.border": "#fbf1c7",
-      "tab.activeBorder": "#7c6f64",
-      "tab.inactiveBackground": "#fbf1c7",
+      "tab.border": "#f5eac1",
+      "tab.activeBorder": "#fbf1c7",
+      "tab.activeBorderTop": "#7c6f64",
+      "tab.inactiveBackground": "#f5eac1",
       "tab.hoverBackground": "#fbf1c7",
       "tab.hoverForeground": "#654735",
       "tab.activeBackground": "#fbf1c7",
@@ -171,8 +173,8 @@
       "editorBracketHighlight.foreground5": "#c35e0a",
       "editorBracketHighlight.foreground6": "#945e80",
       "editorBracketHighlight.unexpectedBracket.foreground": "#928374",
-      "editorOverviewRuler.background": "#ede1b8",
-      "editorOverviewRuler.border": "#fbf1c700",
+      "editorOverviewRuler.background": "#f5eac1",
+      "editorOverviewRuler.border": "#ebe2bc",
       "editorOverviewRuler.findMatchForeground": "#89b482",
       "editorOverviewRuler.rangeHighlightForeground": "#89b482",
       "editorOverviewRuler.selectionHighlightForeground": "#89b482",
@@ -287,7 +289,7 @@
       "merge.currentHeaderBackground": "#7daea380",
       "merge.currentContentBackground": "#7daea340",
       "merge.border": "#fbf1c700",
-      "panel.background": "#e9ddb5",
+      "panel.background": "#f0e5b9",
       "panel.border": "#fbf1c7",
       "panelInput.border": "#e0cfa9",
       "panelTitle.activeForeground": "#7c6f64",
@@ -296,9 +298,9 @@
       "panelSection.border": "#f2e5bc",
       "panelSectionHeader.background": "#fbf1c7",
       "imagePreview.border": "#fbf1c7",
-      "statusBar.background": "#e9ddb5",
+      "statusBar.background": "#f0e5b9",
       "statusBar.foreground": "#7c6f64",
-      "statusBar.border": "#fbf1c7",
+      "statusBar.border": "#ded6b1",
       "statusBar.debuggingForeground": "#c35e0a",
       "statusBar.debuggingBackground": "#fbf1c7",
       "statusBar.noFolderBackground": "#fbf1c7",
@@ -319,7 +321,7 @@
       "titleBar.activeForeground": "#7c6f64",
       "titleBar.inactiveBackground": "#fbf1c7",
       "titleBar.inactiveForeground": "#a89984",
-      "titleBar.border": "#fbf1c7",
+      "titleBar.border": "#ebe2bc",
       "menubar.selectionBackground": "#fbf1c7",
       "menubar.selectionBorder": "#fbf1c7",
       "menu.foreground": "#7c6f64",
@@ -375,7 +377,7 @@
       "settings.modifiedItemIndicator": "#a89984",
       "settings.focusedRowBackground": "#f2e5bc",
       "settings.rowHoverBackground": "#f2e5bc",
-      "editorPane.background": "#e9ddb5",
+      "editorPane.background": "#f0e5b9",
       "editorLightBulb.foreground": "#b47109",
       "editorLightBulbAutoFix.foreground": "#4c7a5d",
       "welcomePage.progress.foreground": "#6c782e",
@@ -544,7 +546,7 @@
          "name": "Preproc",
          "scope": "keyword.control.at-rule, keyword.control.import, keyword.control.export, storage.type.namespace, punctuation.decorator, keyword.control.directive, keyword.preprocessor, punctuation.definition.preprocessor, punctuation.definition.directive, keyword.other.import, keyword.other.package, entity.name.type.namespace, entity.name.scope-resolution, keyword.other.using, keyword.package, keyword.import, keyword.map",
          "settings": {
-            "foreground": "#4c7a5d"
+            "foreground": "#C14A4A"
          }
       },
       {
@@ -876,10 +878,10 @@
          }
       },
       {
-         "name": "Html orange",
-         "scope": "entity.name.tag.html, entity.name.tag.xml, entity.name.tag.localname.xml",
+         "name": "Html red",
+         "scope": "entity.name.tag.html, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, entity.name.tag.xml, entity.name.tag.localname.xml",
          "settings": {
-            "foreground": "#c35e0a"
+            "foreground": "#C14A4A"
          }
       },
       {
@@ -891,7 +893,7 @@
       },
       {
          "name": "Html green",
-         "scope": "string.quoted.double.html, string.quoted.single.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.separator.key-value.html, punctuation.definition.string.begin.xml, punctuation.definition.string.end.xml, string.quoted.double.xml, string.quoted.single.xml, punctuation.definition.tag.begin.html, punctuation.definition.tag.end.html, punctuation.definition.tag.xml, meta.tag.xml, meta.tag.preprocessor.xml, meta.tag.other.html, meta.tag.block.any.html, meta.tag.inline.any.html",
+         "scope": "string.quoted.double.html, string.quoted.single.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.separator.key-value.html, punctuation.definition.string.begin.xml, punctuation.definition.string.end.xml, string.quoted.double.xml, string.quoted.single.xml, punctuation.definition.tag.xml, meta.tag.xml, meta.tag.preprocessor.xml, meta.tag.other.html, meta.tag.block.any.html, meta.tag.inline.any.html",
          "settings": {
             "foreground": "#6c782e"
          }
@@ -2427,7 +2429,7 @@
          "scope": "comment, string.comment, punctuation.definition.comment",
          "settings": {
             "foreground": "#928374",
-            "fontStyle": "italic"
+            "fontStyle": ""
          }
       }
    ]

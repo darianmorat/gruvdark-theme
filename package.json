@@ -3,7 +3,7 @@
    "displayName": "GruvDark Theme",
    "description": "Nice, warm & detailed color syntax",
    "icon": "images/logo.png",
-   "version": "1.6.9",
+   "version": "1.7.0",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -34,24 +34,24 @@
             "path": "./themes/gruvdark-light.json"
          },
          {
+            "label": "GruvDark-GBM Light",
+            "uiTheme": "vs",
+            "path": "./themes/gruvdark-gbml.json"
+         },
+         {
             "label": "GruvDark",
             "uiTheme": "vs-dark",
             "path": "./themes/gruvdark.json"
          },
          {
-            "label": "GruvDark Tokyo",
-            "uiTheme": "vs-dark",
-            "path": "./themes/gruvdark-tokyo.json"
-         },
-         {
-            "label": "GruvDark-GBML",
-            "uiTheme": "vs",
-            "path": "./themes/gruvdark-gbml.json"
-         },
-         {
             "label": "GruvDark-GBM",
             "uiTheme": "vs-dark",
             "path": "./themes/gruvdark-gbm.json"
+         },
+         {
+            "label": "GruvDark-Tokyo",
+            "uiTheme": "vs-dark",
+            "path": "./themes/gruvdark-tokyo.json"
          }
       ]
    }

@@ -1,3 +1,8 @@
+## 1.7.0
+
+-  Mayor Update color syntax
+-  UI color changed & new themes 
+
 ## 1.6.0
 
 -  Mayor Update color syntax

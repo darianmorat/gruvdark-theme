@@ -1,27 +1,39 @@
 ### Pending:
 
-**Support languages:** Right now the main focus is on html, css & javascript.<br>
+**Support languages for GruvDark Themes:** Right now the main focus is on html, css & javascript.<br>
 
-### DTheme
+### GruvDark
 
-![DTheme](images/dtheme.png)
+![GruvDark](images/gruvdark.png)
 &nbsp;
 
-### DTheme Light
+### GruvDark Light
 
-![DTheme](images/dtheme-light.png)
+![GruvDark Light](images/gruvdark-light.png)
 &nbsp;
 
-### DTheme Tokyo
+### GruvDark Tokyo
 
-![DTheme Tokyo](images/dtheme-tokyo.png)
+![GruvDark Tokyo](images/gruvdark-tokyo.png)
+&nbsp;
+
+> This theme is based on Gruvbox-Material by Sainnhe Park
+
+### Gruvbox Modified
+
+![Gruvbox Modified]()
+&nbsp;
+
+### Gruvbox Light Modified
+
+![Gruvbox Light Modified]()
 &nbsp;
 
 ### Color Palette
 
 <!-- Visual color palette like https://github.com/morhetz/gruvbox/tree/master -->
 
-**Dark theme:**
+**GruvDark:**
 
 ```
  blue: #5b98c9
@@ -34,7 +46,7 @@
  purple: #9266da
 ```
 
-**Light theme:**
+**GruvDark Light:**
 
 ```
 blue: #00579f
@@ -47,15 +59,20 @@ black: #111111
 purple: #480aab
 ```
 
+**Gruvbox Material - Dark & Light:**
+
+-  [Here](https://github.com/sainnhe/gruvbox-material-vscode) you can find the color palette that is used for Gruvbox Material... The ones in this pack theme are Dark:Material palette & Light:Original palette.
+
 ### Inspirations
 
 -  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Color palette high contrast.
--  [Gruvbox](https://github.com/sainnhe/gruvbox-material-vscode) - Warm colors and logic.
+-  [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode) - Warm colors and logic.
 -  [VSCode Default]() - Background touch and borders.
 
 &nbsp;
 
 ---
 
-Theme created by <a href="https://github.com/darianmorat">Darian Toledo.</a> ✨ <br />
+GruvDark created by <a href="https://github.com/darianmorat">Darian Toledo.</a> ✨ <br />
+Gruvbox Material created by <a href="https://github.com/sainnhe"> Sainnhe Park</a> ✨ <br />
 Have a good one!

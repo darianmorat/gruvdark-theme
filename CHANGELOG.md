@@ -1,7 +1,3 @@
-## 1.6.4
-
--  New theme 'DTheme Light'
-
 ## 1.6.0
 
 -  Mayor Update color syntax

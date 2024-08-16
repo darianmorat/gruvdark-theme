@@ -1,13 +1,13 @@
 {
-   "name": "darian-theme",
-   "displayName": "Darian Theme",
-   "description": "Nice, warm & detailed color syntax ",
+   "name": "gruvdark",
+   "displayName": "GruvDark",
+   "description": "Nice, warm & detailed color syntax",
    "icon": "images/logo.png",
    "version": "1.6.6",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
-      "url": "https://github.com/darianmorat/darian-theme"
+      "url": "https://github.com/darianmorat/gruvdark"
    },
    "engines": {
       "vscode": "^1.85.0"
@@ -23,24 +23,35 @@
       "theme",
       "darktheme",
       "vscode",
-      "dariantheme"
+      "gruvdark",
+      "gruvbox"
    ],
    "contributes": {
       "themes": [
          {
-            "label": "DTheme Light",
+            "label": "GruvDark Light",
             "uiTheme": "vs",
-            "path": "./themes/dtheme-light.json"
+            "path": "./themes/gruvdark-light.json"
          },
          {
-            "label": "DTheme",
+            "label": "GruvDark",
             "uiTheme": "vs-dark",
-            "path": "./themes/dtheme.json"
+            "path": "./themes/gruvdark.json"
          },
          {
-            "label": "DTheme Tokyo",
+            "label": "GruvDark Tokyo",
             "uiTheme": "vs-dark",
-            "path": "./themes/dtheme-tokyo.json"
+            "path": "./themes/gruvdark-tokyo.json"
+         },
+         {
+            "label": "Gruvbox Light Modified",
+            "uiTheme": "vs",
+            "path": "./themes/gruvbox-light-modified.json"
+         },
+         {
+            "label": "Gruvbox Modified",
+            "uiTheme": "vs-dark",
+            "path": "./themes/gruvbox-modified.json"
          }
       ]
    }

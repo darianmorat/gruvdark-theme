@@ -21,12 +21,12 @@
 
 ### Gruvbox Modified
 
-![Gruvbox Modified]()
+![Gruvbox Modified](images/gruvbox-modified.png)
 &nbsp;
 
 ### Gruvbox Light Modified
 
-![Gruvbox Light Modified]()
+![Gruvbox Light Modified](images/gruvbox-light-modified.png)
 &nbsp;
 
 ### Color Palette

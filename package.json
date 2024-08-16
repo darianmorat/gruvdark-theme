@@ -1,9 +1,9 @@
 {
-   "name": "darian-theme",
-   "displayName": "GruvDark",
+   "name": "gruvdark",
+   "displayName": "GruvDark Theme",
    "description": "Nice, warm & detailed color syntax",
    "icon": "images/logo.png",
-   "version": "1.6.9",
+   "version": "1.6.8",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -44,14 +44,14 @@
             "path": "./themes/gruvdark-tokyo.json"
          },
          {
-            "label": "Gruvbox Light Modified",
+            "label": "GruvDark-GBML",
             "uiTheme": "vs",
-            "path": "./themes/gruvbox-light-modified.json"
+            "path": "./themes/gruvdark-gbml.json"
          },
          {
-            "label": "Gruvbox Modified",
+            "label": "GruvDark-GBM",
             "uiTheme": "vs-dark",
-            "path": "./themes/gruvbox-modified.json"
+            "path": "./themes/gruvdark-gbm.json"
          }
       ]
    }

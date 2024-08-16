@@ -19,14 +19,14 @@
 
 > This theme is based on Gruvbox-Material by Sainnhe Park
 
-### Gruvbox Modified
+### GruvDark GBM
 
-![Gruvbox Modified](images/gruvbox-modified.png)
+![GruvDark GBM](images/gruvdark-gbm.png)
 &nbsp;
 
-### Gruvbox Light Modified
+### GruvDark GBML
 
-![Gruvbox Light Modified](images/gruvbox-light-modified.png)
+![GruvDark GBML](images/gruvdark-gbml.png)
 &nbsp;
 
 ### Color Palette
@@ -59,9 +59,9 @@ black: #111111
 purple: #480aab
 ```
 
-**Gruvbox Material - Dark & Light:**
+**GruvDark GBM & GGBML:**
 
--  [Here](https://github.com/sainnhe/gruvbox-material-vscode) you can find the color palette that is used for Gruvbox Material... The ones in this pack theme are Dark:Material palette & Light:Original palette.
+-  [Here](https://github.com/sainnhe/gruvbox-material-vscode) you can find the color palette that is used for GruvDark from Gruvbox Material... The ones in this pack theme are Dark:Material palette & Light:Original palette.
 
 ### Inspirations
 

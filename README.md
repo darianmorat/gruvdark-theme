@@ -1,6 +1,6 @@
 ### Pending:
 
-**Support:** Right now the main focus is on html, css & javascript.<br>
+**Support languages:** Right now the main focus is on html, css & javascript.<br>
 
 ### DTheme
 
@@ -37,21 +37,21 @@
 **Light theme:**
 
 ```
-// blue: #00579f
-// aqua: #228592
-// red: #c01414
-// pink: #a10f86
-// yellow: #bf6702
-// green: #1a8702
-// black: #111111
-// purple: #480aab
+blue: #00579f
+aqua: #228592
+red: #c01414
+pink: #a10f86
+yellow: #bf6702
+green: #1a8702
+black: #111111
+purple: #480aab
 ```
 
 ### Inspirations
 
 -  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Color palette high contrast.
 -  [Gruvbox](https://github.com/sainnhe/gruvbox-material-vscode) - Warm colors and logic.
--  [VSCode Default]() - Background and borders.
+-  [VSCode Default]() - Background touch and borders.
 
 &nbsp;
 

@@ -1,9 +1,9 @@
 {
-   "name": "gruvdark",
+   "name": "darian-theme",
    "displayName": "GruvDark Theme",
    "description": "Nice, warm & detailed color syntax",
    "icon": "images/logo.png",
-   "version": "1.7.5",
+   "version": "1.7.6",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",

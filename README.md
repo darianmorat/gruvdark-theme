@@ -1,6 +1,6 @@
 ### Pending:
 
-**Support +languages for GruvDark Themes:** Right now the main focus is on html, css & javascript. Contributions are more than welcome!<br>
+**Support + languages for GruvDark Themes:** Right now the main focus is on html, css & javascript. Contributions are more than welcome!<br>
 
 ### GruvDark
 
@@ -41,7 +41,7 @@
 
 **GruvDark:**
 
-```
+```r
  blue: #5b98c9
  aqua: #4db0bd
  red: #db6a6a
@@ -54,7 +54,7 @@
 
 **GruvDark Light:**
 
-```
+```r
 blue: #00579f
 aqua: #228592
 red: #c01414

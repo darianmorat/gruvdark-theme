@@ -3,7 +3,7 @@
    "displayName": "GruvDark Theme",
    "description": "Nice, warm & detailed color syntax",
    "icon": "images/logo.png",
-   "version": "1.7.4",
+   "version": "1.7.5",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -37,7 +37,7 @@
          {
             "label": "GruvDark-GBM Light",
             "uiTheme": "vs",
-            "path": "./themes/gruvdark-gbml.json"
+            "path": "./themes/gruvdark-gbm-light.json"
          },
          {
             "label": "GruvDark",

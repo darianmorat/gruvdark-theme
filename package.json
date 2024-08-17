@@ -3,7 +3,7 @@
    "displayName": "GruvDark Theme",
    "description": "Nice, warm & detailed color syntax",
    "icon": "images/logo.png",
-   "version": "1.7.1",
+   "version": "1.7.2",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -24,7 +24,8 @@
       "darktheme",
       "vscode",
       "gruvdark",
-      "gruvbox"
+      "gruvbox",
+      "onedark"
    ],
    "contributes": {
       "themes": [

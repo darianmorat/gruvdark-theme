@@ -3,7 +3,7 @@
    "displayName": "GruvDark Theme",
    "description": "Retro-Modern Groove - Gruvbox's warm vintage tones meet One Dark's modern depth.",
    "icon": "images/logo.png",
-   "version": "1.7.8",
+   "version": "1.7.9",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -16,7 +16,7 @@
       "Themes"
    ],
    "galleryBanner": {
-      "color": "#090f1b",
+      "color": "#fce7c8",
       "theme": "dark"
    },
    "keywords": [

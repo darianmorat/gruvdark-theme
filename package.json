@@ -1,13 +1,13 @@
 {
    "name": "darian-theme",
    "displayName": "GruvDark Theme",
-   "description": "Nice, warm & detailed color syntax",
+   "description": "Retro-Modern Groove - Gruvbox's warm vintage tones meet One Dark's modern depth.",
    "icon": "images/logo.png",
-   "version": "1.7.6",
+   "version": "1.7.7",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
-      "url": "https://github.com/darianmorat/gruvdark"
+      "url": "https://github.com/darianmorat/gruvdark-theme"
    },
    "engines": {
       "vscode": "^1.85.0"
@@ -22,8 +22,9 @@
    "keywords": [
       "theme",
       "darktheme",
-      "vscode",
       "gruvdark",
+      "vscode",
+      "dariantheme",
       "gruvbox",
       "onedark"
    ],

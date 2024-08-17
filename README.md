@@ -1,6 +1,6 @@
 ### Pending:
 
-**Support + languages for GruvDark Themes:** Right now the main focus is on html, css & javascript. Contributions are more than welcome!<br>
+**Support +languages for GruvDark:** Right now the main focus is on html, css & javascript. Contributions are more than welcome!<br>
 
 ### GruvDark
 
@@ -17,7 +17,7 @@
 ![GruvDark Tokyo](images/gruvdark-tokyo.png)
 &nbsp;
 
-> GruvDark-GBM theme is based on Gruvbox-Material (with a few personal changes) by Sainnhe Park
+> GruvDark-GBM theme is based on Gruvbox-Material (with a few personal changes) by Sainnhe Park.
 
 ### GruvDark-GBM
 
@@ -67,9 +67,9 @@ purple: "#480aab"
 
 ### Inspirations
 
--  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Color palette high contrast.
--  [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode) - Warm colors and logic.
--  [VSCode Default]() - Background touch and borders.
+-  [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode) - Rich, warm tones with a well-balanced contrast.
+-  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Bold, high-contrast palette with modern flair.
+-  [VSCode Default](https://github.com/microsoft/vscode) - Subtle background accents and clean borders.
 
 &nbsp;
 

@@ -42,27 +42,27 @@
 **GruvDark:**
 
 ```r
- blue: #5b98c9
- aqua: #4db0bd
- red: #db6a6a
- pink: #db63c5
- yellow: #d19f66
- green: #76b568
- white: #cdc5b8
- purple: #9266da
+ blue: "#5b98c9"
+ aqua: "#4db0bd"
+ red: "#db6a6a"
+ pink: "#db63c5"
+ yellow: "#d19f66"
+ green: "#76b568"
+ white: "#cdc5b8"
+ purple: "#9266da"
 ```
 
 **GruvDark Light:**
 
 ```r
-blue: #00579f
-aqua: #228592
-red: #c01414
-pink: #a10f86
-yellow: #bf6702
-green: #1a8702
-black: #111111
-purple: #480aab
+blue: "#00579f"
+aqua: "#228592"
+red: "#c01414"
+pink: "#a10f86"
+yellow: "#bf6702"
+green: "#1a8702"
+black: "#111111"
+purple: "#480aab"
 ```
 
 ### Inspirations

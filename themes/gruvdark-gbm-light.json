@@ -1,5 +1,5 @@
 {
-   "name": "GruvDark-GBML",
+   "name": "GruvDark-GBM Light",
    "type": "light",
    "semanticHighlighting": true,
    "semanticTokenColors": {
@@ -106,7 +106,7 @@
       "sideBar.background": "#ebe0b2",
       "sideBarSectionHeader.background": "#f0e5b9",
       "sideBarTitle.foreground": "#7c6f64",
-      "sidebar.border":"#ebe0b2",
+      "sidebar.border": "#ebe0b2",
       "sideBarSectionHeader.foreground": "#7c6f64",
       "minimap.findMatchHighlight": "#89b48260",
       "minimap.selectionHighlight": "#d5c4a1f0",
@@ -311,7 +311,7 @@
       "statusBarItem.prominentForeground": "#654735",
       "statusBarItem.prominentBackground": "#fbf1c7",
       "statusBarItem.prominentHoverBackground": "#ebdbb2a0",
-      "statusBarItem.remoteBackground": "#fbf1c7",
+      "statusBarItem.remoteBackground": "#00000000",
       "statusBarItem.remoteForeground": "#7c6f64",
       "statusBarItem.errorBackground": "#fbf1c7",
       "statusBarItem.errorForeground": "#c14a4a",

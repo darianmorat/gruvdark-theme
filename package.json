@@ -1,7 +1,7 @@
 {
    "name": "darian-theme",
    "displayName": "GruvDark Theme",
-   "description": "Retro-Modern Groove - Gruvbox's warm vintage tones meet One Dark's modern depth.",
+   "description": "Retro-Modern Groove. Gruvbox's warm vintage tones meet OneDark's modern depth.",
    "icon": "images/logo.png",
    "version": "1.8.2",
    "publisher": "darianmorat",
@@ -31,14 +31,14 @@
    "contributes": {
       "themes": [
          {
-            "label": "GruvDark Light",
+            "label": " Light GruvDark",
             "uiTheme": "vs",
-            "path": "./themes/gruvdark-light.json"
+            "path": "./themes/light-gruvdark.json"
          },
          {
-            "label": "GruvDark-GBM Light",
+            "label": "Light GruvDark-GBM",
             "uiTheme": "vs",
-            "path": "./themes/gruvdark-gbm-light.json"
+            "path": "./themes/light-gruvdark-gbm.json"
          },
          {
             "label": "GruvDark",

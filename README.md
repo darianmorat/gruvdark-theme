@@ -1,15 +1,11 @@
-### Pending:
-
-**Support +languages for GruvDark:** Right now the main focus is on html, css & javascript. Contributions are more than welcome!<br>
-
 ### GruvDark
 
 ![GruvDark](images/gruvdark.png)
 &nbsp;
 
-### GruvDark Light
+### GruvDark-GBM
 
-![GruvDark Light](images/gruvdark-light.png)
+![GruvDark-GBM](images/gruvdark-gbm.png)
 &nbsp;
 
 ### GruvDark-Tokyo
@@ -17,27 +13,19 @@
 ![GruvDark Tokyo](images/gruvdark-tokyo.png)
 &nbsp;
 
-> GruvDark-GBM theme is based on Gruvbox-Material (with a few personal changes) by Sainnhe Park.
+### Light GruvDark
 
-### GruvDark-GBM
-
-![GruvDark-GBM](images/gruvdark-gbm.png)
+![GruvDark Light](images/light-gruvdark.png)
 &nbsp;
 
-### GruvDark-GBM Light
+### Light GruvDark-GBM
 
-![GruvDark-GBM Light](images/gruvdark-gbm-light.png)
+![GruvDark-GBM Light](images/light-gruvdark-gbm.png)
 &nbsp;
 
 ### Color Palette
 
 <!-- Visual color palette like https://github.com/morhetz/gruvbox/tree/master -->
-
-**GruvDark GBM:**
-
-[Here](https://github.com/sainnhe/gruvbox-material-vscode) you can find the color palette that is used for GruvDark GBM from Gruvbox Material... The ones in this pack theme are **Dark:Material palette** & **Light:Original palette**.
-
-<br />
 
 **GruvDark:**
 
@@ -52,7 +40,7 @@
  purple: "#9266da"
 ```
 
-**GruvDark Light:**
+**Light GruvDark:**
 
 ```r
 blue: "#00579f"
@@ -63,6 +51,18 @@ yellow: "#bf6702"
 green: "#1a8702"
 black: "#111111"
 purple: "#480aab"
+```
+
+**GruvDark-GBM:**
+
+```r
+Soon...
+```
+
+**Light GruvDark-GBM:**
+
+```r
+Soon...
 ```
 
 ### Inspirations

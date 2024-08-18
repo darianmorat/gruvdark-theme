@@ -1,6 +1,12 @@
 {
    "name": "GruvDark Tokyo",
    "semanticHighlighting": true,
+   "semanticTokenColors": {
+      "variable.defaultLibrary:javascript": "#D19F66",
+      "property.defaultLibrary:javascript": "#D19F66",
+      "variable.defaultLibrary:javascriptreact": "#D19F66",
+      "property.defaultLibrary:javascriptreact": "#D19F66"
+   },
    "colors": {
       "foreground": "#d1d1d1",
       "focusBorder": "#007fd4",
@@ -267,6 +273,13 @@
       {
          "name": "Variables",
          "scope": ["variable"],
+         "settings": {
+            "foreground": "#cdc5b8"
+         }
+      },
+      {
+         "name": "Variables",
+         "scope": ["variable", "support.variable", "meta.definition.variable"],
          "settings": {
             "foreground": "#cdc5b8"
          }
@@ -993,9 +1006,7 @@
             "constant.numeric.decimal",
             "constant.language.boolean.true",
             "constant.language.boolean.false",
-            "support.other.variable",
-            "variable.language.this",
-            "support.variable.property.js"
+            "variable.language.this"
          ],
          "settings": {
             "foreground": "#d19f66"

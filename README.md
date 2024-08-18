@@ -56,13 +56,27 @@ purple: "#480aab"
 **GruvDark-GBM:**
 
 ```r
-Soon...
+blue: "#7daea3"
+aqua: "#89b482"
+red: "#ea6962"
+purple: "#d3869b"
+yellow: "#d8a657"
+green: "#a9b665"
+white: "#d4be98"
+orange: "#e78a4e"
 ```
 
 **Light GruvDark-GBM:**
 
 ```r
-Soon...
+blue: "#45707a"
+aqua: "#4c7a5d"
+red: "#c14a4a"
+purple: "#945e80"
+yellow: "#b47109"
+green: "#6c782e"
+black: "#654735"
+orange: "#c35e0a"
 ```
 
 ### Inspirations

@@ -1,6 +1,12 @@
 {
    "name": "Light GruvDark",
    "semanticHighlighting": true,
+   "semanticTokenColors": {
+      "variable.defaultLibrary:javascript": "#BF6702",
+      "property.defaultLibrary:javascript": "#BF6702",
+      "variable.defaultLibrary:javascriptreact": "#BF6702",
+      "property.defaultLibrary:javascriptreact": "#BF6702"
+   },
    "colors": {
       "foreground": "#7c6f64",
       "focusBorder": "#e0cfa900",
@@ -468,6 +474,13 @@
       {
          "name": "Variables",
          "scope": ["variable"],
+         "settings": {
+            "foreground": "#111111"
+         }
+      },
+      {
+         "name": "Variables",
+         "scope": ["variable", "support.variable", "meta.definition.variable"],
          "settings": {
             "foreground": "#111111"
          }

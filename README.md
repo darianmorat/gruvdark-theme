@@ -11,6 +11,7 @@
       <img src="images/palette-gruvdark-gbm.png" width="100%">
     </td>
   </tr>
+  <tr></tr>
   <tr>
     <td width="50%">
       <div style="text-align:center; font-weight:bold;">Gruvdark-Tokyo</div>
@@ -23,6 +24,7 @@
       <img src="images/palette-gruvdark-mono.png" width="100%">
     </td>
   </tr>
+  <tr></tr>
   <tr>
     <td width="50%">
       <div style="text-align:center; font-weight:bold;">Light GruvDark</div>

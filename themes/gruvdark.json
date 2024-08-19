@@ -1,11 +1,23 @@
 {
    "name": "GruvDark",
+   "type": "dark",
    "semanticHighlighting": true,
    "semanticTokenColors": {
       "variable.defaultLibrary:javascript": "#D19F66",
       "property.defaultLibrary:javascript": "#D19F66",
       "variable.defaultLibrary:javascriptreact": "#D19F66",
-      "property.defaultLibrary:javascriptreact": "#D19F66"
+      "property.defaultLibrary:javascriptreact": "#D19F66",
+      "enum:typescript": "#D19F66",
+      "namespace:typescript": "#D19F66",
+      "variable.defaultLibrary:typescript": "#D19F66",
+      "property.defaultLibrary:typescript": "#D19F66",
+      "enum:typescriptreact": "#D19F66",
+      "namespace:typescriptreact": "#D19F66",
+      "variable.defaultLibrary:typescriptreact": "#D19F66",
+      "property.defaultLibrary:typescriptreact": "#D19F66",
+      "intrinsic:python": "#D19F66",
+      "namespace:rust": "#D19F66",
+      "selfKeyword:rust": "#D19F66"
    },
    "colors": {
       "foreground": "#d1cfc7",
@@ -114,20 +126,21 @@
       "terminalCursor.background": "#0087FF",
       "terminalCursor.foreground": "#d1cfc7",
       "terminal.border": "#80808059",
-      "terminal.ansiBlack": "#000000",
-      "terminal.ansiBrightBlack": "#666666",
+      "terminal.ansiBlack": "#2B2B2B",
+      "terminal.ansiBrightBlack": "#4F4F4F",
       "terminal.ansiBlue": "#5b98c9",
       "terminal.ansiBrightBlue": "#5b98c9",
-      "terminal.ansiBrightCyan": "#29b8db",
       "terminal.ansiRed": "#db6a6a",
-      "terminal.ansiBrightRed": "#f14c4c",
+      "terminal.ansiBrightRed": "#db6a6a",
       "terminal.ansiWhite": "#cdc5b8",
       "terminal.ansiBrightWhite": "#cdc5b8",
       "terminal.ansiYellow": "#d19f66",
       "terminal.ansiBrightYellow": "#d19f66",
-      "terminal.ansiCyan": "#11a8cd",
+      "terminal.ansiCyan": "#4db0bd",
+      "terminal.ansiBrightCyan": "#4db0bd",
       "terminal.ansiGreen": "#76b568",
-      "terminal.ansiMagenta": "#bc3fbc",
+      "terminal.ansiBrightGreen": "#76b568",
+      "terminal.ansiMagenta": "#d670d6",
       "terminal.ansiBrightMagenta": "#d670d6",
       "breadcrumb.foreground": "#858585",
       "breadcrumb.focusForeground": "#e0e0e0",
@@ -222,7 +235,6 @@
       "debugExceptionWidget.background": "#333333",
       "debugExceptionWidget.border": "#474747",
       "editorCursor.foreground": "#cecece",
-      "terminal.ansiBrightGreen": "#11b97d",
       "editorIndentGuide.activeBackground1": "#616161",
       "sideBar.border": "#1c1c1c",
       "sideBar.background": "#1c1c1c",
@@ -279,7 +291,12 @@
       },
       {
          "name": "Variables",
-         "scope": ["variable", "support.variable", "meta.definition.variable"],
+         "scope": [
+            "variable",
+            "support.variable",
+            "meta.definition.variable",
+            "meta.function-call.arguments.python"
+         ],
          "settings": {
             "foreground": "#cdc5b8"
          }
@@ -326,7 +343,7 @@
          }
       },
       {
-         "name": "Tag",
+         "name": "Tag red",
          "scope": [
             "entity.name.tag",
             "meta.tag.sgml",
@@ -337,29 +354,29 @@
          }
       },
       {
-         "name": "Function, Special Method",
+         "name": "Function red",
          "scope": [
             "entity.name.function",
             "meta.function-call",
             "variable.function",
             "support.function",
-            "keyword.other.special-method"
+            "keyword.other.special-method",
+            "constant.other.caps.rust"
          ],
          "settings": {
             "foreground": "#db6a6a"
          }
       },
       {
-         "name": "Other Variable, String Link",
+         "name": "Other Variable red",
          "scope": ["string.other.link"],
          "settings": {
             "foreground": "#db6a6a"
          }
       },
       {
-         "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+         "name": "Number, Constant, Function Argument blue",
          "scope": [
-            "constant.language",
             "support.constant",
             "constant.character",
             "constant.escape",
@@ -373,7 +390,7 @@
          }
       },
       {
-         "name": "String, Symbols, Inherited Class, Markup Heading",
+         "name": "String, Symbols green",
          "scope": [
             "string",
             "constant.other.symbol",
@@ -388,7 +405,7 @@
          }
       },
       {
-         "name": "Class, Support",
+         "name": "Class, Support, aqua",
          "scope": [
             "entity.name",
             "support.type",
@@ -398,7 +415,8 @@
             "meta.use.php",
             "support.other.namespace.php",
             "markup.changed.git_gutter",
-            "support.type.sys-types"
+            "support.type.sys-types",
+            "support.type.python"
          ],
          "settings": {
             "foreground": "#4db0bd"
@@ -951,13 +969,17 @@
       },
       {
          "name": "template",
-         "scope": ["punctuation.definition.string", "string"],
+         "scope": [
+            "punctuation.definition.string",
+            "string",
+            "constant.character.format.placeholder.other.python"
+         ],
          "settings": {
             "foreground": "#76b568"
          }
       },
       {
-         "name": "Symbols",
+         "name": "Symbols blue",
          "scope": [
             "keyword.operator.assignment",
             "keyword.operator.arithmetic",
@@ -966,7 +988,11 @@
             "keyword.operator.comparison",
             "keyword.operator.increment",
             "keyword.operator.decrement",
-            "keyword.operator.relational.js"
+            "keyword.operator.relational.js",
+            "keyword.operator.unpacking.arguments.python",
+            "keyword.operator.borrow.and.rust",
+            "keyword.operator.namespace.rust",
+            "keyword.operator.access.dot.rust"
          ],
          "settings": {
             "foreground": "#5b98c9"
@@ -974,13 +1000,13 @@
       },
       {
          "name": "variables const let",
-         "scope": ["storage.type"],
+         "scope": ["storage.type", "storage.modifier.mut.rust"],
          "settings": {
             "foreground": "#5b98c9"
          }
       },
       {
-         "name": "Main color",
+         "name": "Main color pink",
          "scope": [
             "keyword.control",
             "keyword.operator",
@@ -988,7 +1014,10 @@
             "keyword.control.conditional",
             "keyword.control.loop",
             "storage.type.function.js",
-            "storage.type.class.js"
+            "storage.type.class.js",
+            "storage.type.class.python",
+            "storage.type.function.python",
+            "keyword.other.rust"
          ],
          "settings": {
             "foreground": "#db63c5"
@@ -1002,12 +1031,15 @@
          }
       },
       {
-         "name": "Numbers boolean",
+         "name": "Numbers boolean yellow",
          "scope": [
             "constant.numeric.decimal",
             "constant.language.boolean.true",
             "constant.language.boolean.false",
-            "variable.language.this"
+            "variable.language.this",
+            "constant.language",
+            "constant.numeric.dec.python",
+            "constant.numeric.hex.rust"
          ],
          "settings": {
             "foreground": "#d19f66"

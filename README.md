@@ -1,41 +1,36 @@
+<!-- Table 1 -->
 <table width="100%">
   <tr>
-    <td width="50%">
-      <div style="text-align:center; font-weight:bold;">GruvDark</div>
-      <img src="images/gruvdark.png" width="100%">
-      <img src="images/palette-gruvdark.png" width="100%">
-    </td>
-    <td width="50%">
-      <div style="text-align:center; font-weight:bold;">Gruvdark-GBM</div>
-      <img src="images/gruvdark-gbm.png" width="100%">
-      <img src="images/palette-gruvdark-gbm.png" width="100%">
-    </td>
+    <th width="50%">GruvDark</th>
+    <th width="50%">Gruvdark-GBM</th>
   </tr>
-    <tr><td> ‎ </td><td> ‎ </td></tr>
   <tr>
-    <td width="50%">
-      <div style="text-align:center; font-weight:bold;">Gruvdark-Tokyo</div>
-      <img src="images/gruvdark-tokyo.png" width="100%">
-      <img src="images/palette-gruvdark-tokyo.png" width="100%">
-    </td>
-    <td width="50%">
-      <div style="text-align:center; font-weight:bold;">Soon...</div>
-      <img src="images/gruvdark-mono.png" width="100%">
-      <img src="images/palette-gruvdark-mono.png" width="100%">
-    </td>
+    <td><img src="images/gruvdark.png" width="100%"><br><img src="images/palette-gruvdark.png" width="100%"></td>
+    <td><img src="images/gruvdark-gbm.png" width="100%"><br><img src="images/palette-gruvdark-gbm.png" width="100%"></td>
   </tr>
-    <tr><td> ‎ </td><td> ‎ </td></tr>
+</table>
+
+<!-- Table 2 -->
+<table width="100%">
   <tr>
-    <td width="50%">
-      <div style="text-align:center; font-weight:bold;">Light GruvDark</div>
-      <img src="images/light-gruvdark.png" width="100%">
-      <img src="images/palette-light-gruvdark.png" width="100%">
-    </td>
-    <td width="50%">
-      <div style="text-align:center; font-weight:bold;">Light GruvDark-GBM</div>
-      <img src="images/light-gruvdark-gbm.png" width="100%">
-      <img src="images/palette-light-gruvdark-gbm.png" width="100%">
-    </td>
+    <th width="50%">Gruvdark-Tokyo</th>
+    <th width="50%">Soon...</th>
+  </tr>
+  <tr>
+    <td><img src="images/gruvdark-tokyo.png" width="100%"><br><img src="images/palette-gruvdark-tokyo.png" width="100%"></td>
+    <td><img src="images/gruvdark-mono.png" width="100%"><br><img src="images/palette-gruvdark-mono.png" width="100%"></td>
+  </tr>
+</table>
+
+<!-- Table 3 -->
+<table width="100%">
+  <tr>
+    <th width="50%">Light GruvDark</th>
+    <th width="50%">Light GruvDark-GBM</th>
+  </tr>
+  <tr>
+    <td><img src="images/light-gruvdark.png" width="100%"><br><img src="images/palette-light-gruvdark.png" width="100%"></td>
+    <td><img src="images/light-gruvdark-gbm.png" width="100%"><br><img src="images/palette-light-gruvdark-gbm.png" width="100%"></td>
   </tr>
 </table>
 

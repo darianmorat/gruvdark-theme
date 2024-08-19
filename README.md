@@ -45,7 +45,7 @@
 ```r
 blue: "#00579f"
 aqua: "#228592"
-red: "#c01414"
+red: "#ae0000"
 pink: "#a10f86"
 yellow: "#bf6702"
 green: "#1a8702"

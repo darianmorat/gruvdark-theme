@@ -312,14 +312,14 @@
             "constant.other.color",
             "punctuation",
             "meta.tag",
-            "punctuation.definition.tag",
             "punctuation.separator.inheritance.php",
             "punctuation.definition.tag.html",
             "punctuation.definition.tag.begin.html",
             "punctuation.definition.tag.end.html",
             "punctuation.section.embedded",
             "keyword.other.template",
-            "keyword.other.substitution"
+            "keyword.other.substitution",
+            "keyword.operator.spread"
          ],
          "settings": {
             "foreground": "#5b98c9"
@@ -365,7 +365,8 @@
             "constant.escape",
             "variable.parameter",
             "keyword.other.unit",
-            "keyword.other"
+            "keyword.other",
+            "keyword.operator.bitwise.shift.js"
          ],
          "settings": {
             "foreground": "#5b98c9"
@@ -981,7 +982,7 @@
       {
          "name": "Main color",
          "scope": [
-            "keyword.control.export",
+            "keyword.control",
             "keyword.operator",
             "keyword.control.flow",
             "keyword.control.conditional",

@@ -1,14 +1,41 @@
-|                                 GruvDark                                  | Gruvdark-GBM                                                                          |
-| :-----------------------------------------------------------------------: | ------------------------------------------------------------------------------------- |
-| ![GruvDark](images/gruvdark.png) ![GruvDark](images/palette-gruvdark.png) | ![GruvDark-GBM](images/gruvdark-gbm.png) ![GruvDark](images/palette-gruvdark-gbm.png) |
-
-|                                       Gruvdark-Tokyo                                        |                                         Soon...                                          |
-| :-----------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------: |
-| ![GruvDark-Tokyo](images/gruvdark-tokyo.png) ![GruvDark](images/palette-gruvdark-tokyo.png) | ![GruvDark-Mono](images/gruvdark-mono.png) ![GruvDark](images/palette-gruvdark-mono.png) |
-
-|                                       Light GruvDark                                        | Light GruvDark-GBM                                                                                      |
-| :-----------------------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------------------- |
-| ![GruvDark Light](images/light-gruvdark.png) ![GruvDark](images/palette-light-gruvdark.png) | ![GruvDark-GBM Light](images/light-gruvdark-gbm.png) ![GruvDark](images/palette-light-gruvdark-gbm.png) |
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <div style="text-align:center; font-weight:bold;">GruvDark</div>
+      <img src="images/gruvdark.png" width="100%">
+      <img src="images/palette-gruvdark.png" width="100%">
+    </td>
+    <td width="50%">
+      <div style="text-align:center; font-weight:bold;">Gruvdark-GBM</div>
+      <img src="images/gruvdark-gbm.png" width="100%">
+      <img src="images/palette-gruvdark-gbm.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <div style="text-align:center; font-weight:bold;">Gruvdark-Tokyo</div>
+      <img src="images/gruvdark-tokyo.png" width="100%">
+      <img src="images/palette-gruvdark-tokyo.png" width="100%">
+    </td>
+    <td width="50%">
+      <div style="text-align:center; font-weight:bold;">Soon...</div>
+      <img src="images/gruvdark-mono.png" width="100%">
+      <img src="images/palette-gruvdark-mono.png" width="100%">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <div style="text-align:center; font-weight:bold;">Light GruvDark</div>
+      <img src="images/light-gruvdark.png" width="100%">
+      <img src="images/palette-light-gruvdark.png" width="100%">
+    </td>
+    <td width="50%">
+      <div style="text-align:center; font-weight:bold;">Light GruvDark-GBM</div>
+      <img src="images/light-gruvdark-gbm.png" width="100%">
+      <img src="images/palette-light-gruvdark-gbm.png" width="100%">
+    </td>
+  </tr>
+</table>
 
 ### Inspirations
 

@@ -11,7 +11,7 @@
       <img src="images/palette-gruvdark-gbm.png" width="100%">
     </td>
   </tr>
-    <tr><td style="background-color: transparent; height: 20px;"> ‎ </td><td style="background-color: transparent; height: 20px;"> ‎ </td></tr>
+    <tr><td> ‎ </td><td> ‎ </td></tr>
   <tr>
     <td width="50%">
       <div style="text-align:center; font-weight:bold;">Gruvdark-Tokyo</div>

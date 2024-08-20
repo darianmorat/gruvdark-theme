@@ -269,7 +269,7 @@
       "activityBar.background": "#181923",
       "activityBar.border": "#181923",
       "statusBar.border": "#3b3d46",
-      "editorGroup.border": "#3b3d46",
+      "editorGroup.border": "#00000000",
       "panel.border": "#3b3d46",
       "editorOverviewRuler.border": "#32343b"
    },

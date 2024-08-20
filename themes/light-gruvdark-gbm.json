@@ -115,7 +115,7 @@
       "minimapGutter.addedBackground": "#a9b665a0",
       "minimapGutter.modifiedBackground": "#7daea3a0",
       "minimapGutter.deletedBackground": "#ea6962a0",
-      "editorGroup.border": "#ded6b1",
+      "editorGroup.border": "#00000000",
       "editorGroupHeader.tabsBackground": "#f5eac1",
       "editorGroupHeader.noTabsBackground": "#f5eac1",
       "editorGroup.dropBackground": "#e0cfa960",

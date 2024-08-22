@@ -235,23 +235,23 @@
       "debugExceptionWidget.background": "#333333",
       "debugExceptionWidget.border": "#474747",
       "editorCursor.foreground": "#cecece",
-      "editorIndentGuide.activeBackground1": "#616161",
+      "editorIndentGuide.activeBackground1": "#444444",
       "sideBar.border": "#1c1c1c",
       "sideBar.background": "#1c1c1c",
       "sideBarSectionHeader.background": "#1c1c1c",
       "statusBarItem.remoteBackground": "#00000000",
       "tab.inactiveBackground": "#1f1f1f",
       "activityBar.border": "#1e1e1e",
-      "statusBar.border": "#474747",
+      "statusBar.border": "#303030",
       "editorGroup.border": "#00000000",
       "panel.border": "#474747",
-      "editorOverviewRuler.border": "#2f2f2f",
+      "editorOverviewRuler.border": "#303030",
       "editor.background": "#202020",
       "editorGutter.background": "#202020",
       "terminal.background": "#202020",
       "statusBar.background": "#1e1e1e",
       "panel.background": "#1e1e1e",
-      "editorPane.background":"#1d1d1d",
+      "editorPane.background": "#1d1d1d",
       "editorOverviewRuler.background": "#1f1f1f",
       "editorGroupHeader.noTabsBackground": "#1f1f1f",
       "statusBar.foreground": "#d1cfc7",
@@ -344,11 +344,7 @@
       },
       {
          "name": "Tag red",
-         "scope": [
-            "entity.name.tag",
-            "meta.tag.sgml",
-            "markup.deleted.git_gutter"
-         ],
+         "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
          "settings": {
             "foreground": "#db6a6a"
          }
@@ -470,10 +466,7 @@
       },
       {
          "name": "meta.method.js",
-         "scope": [
-            "meta.class-method.js entity.name.function.js",
-            "variable.function.constructor"
-         ],
+         "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
          "settings": {
             "foreground": "#82AAFF"
          }
@@ -564,9 +557,7 @@
       },
       {
          "name": "ES7 Bind Operator",
-         "scope": [
-            "source.js constant.other.object.key.js string.unquoted.label.js"
-         ],
+         "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
          "settings": {
             "fontStyle": "italic",
             "foreground": "#FF5370"
@@ -574,9 +565,7 @@
       },
       {
          "name": "JSON Key - Level 0",
-         "scope": [
-            "source.json meta.structure.dictionary.json support.type.property-name.json"
-         ],
+         "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
          "settings": {
             "foreground": "#db6a6a"
          }
@@ -665,20 +654,14 @@
       },
       {
          "name": "Letters JSON",
-         "scope": [
-            "constant.numeric.json.comments",
-            "constant.language.json.comments"
-         ],
+         "scope": ["constant.numeric.json.comments", "constant.language.json.comments"],
          "settings": {
             "foreground": "#D19A66"
          }
       },
       {
          "name": "Markdown - Plain",
-         "scope": [
-            "text.html.markdown",
-            "punctuation.definition.list_item.markdown"
-         ],
+         "scope": ["text.html.markdown", "punctuation.definition.list_item.markdown"],
          "settings": {
             "foreground": "#cdc5b8"
          }
@@ -779,10 +762,7 @@
       },
       {
          "name": "Markdown - Link",
-         "scope": [
-            "string.other.link.title.markdown",
-            "string.other.link.description.markdown"
-         ],
+         "scope": ["string.other.link.title.markdown", "string.other.link.description.markdown"],
          "settings": {
             "foreground": "#db63c5"
          }
@@ -868,10 +848,7 @@
       },
       {
          "name": "HTML classes id",
-         "scope": [
-            "punctuation.separator.key-value.html",
-            "entity.other.attribute-name.html"
-         ],
+         "scope": ["punctuation.separator.key-value.html", "entity.other.attribute-name.html"],
          "settings": {
             "foreground": "#9266da"
          }
@@ -959,10 +936,7 @@
       },
       {
          "name": "template",
-         "scope": [
-            "meta.embedded.line",
-            "punctuation.definition.template-expression"
-         ],
+         "scope": ["meta.embedded.line", "punctuation.definition.template-expression"],
          "settings": {
             "foreground": "#76b568"
          }

@@ -290,7 +290,7 @@
          }
       },
       {
-         "name": "Variables",
+         "name": "Variables white",
          "scope": [
             "variable",
             "support.variable",
@@ -891,6 +891,7 @@
             "support.constant.color.css",
             "support.constant.font-name.css",
             "support.constant.color.w3c-standard-color-name.css",
+            "support.constant.color.w3c-extended-color-name.css",
             "constant.other.color.rgb-value.hex.css",
             "punctuation.definition.constant.css",
             "support.function.transform.css"
@@ -925,6 +926,17 @@
          ],
          "settings": {
             "foreground": "#db63c5"
+         }
+      },
+      {
+         "name": "CSS Erros white",
+         "scope": [
+            "meta.property-value.css",
+            "meta.property-name.css",
+            "keyword.other.important.css"
+         ],
+         "settings": {
+            "foreground": "#cdc5b8"
          }
       },
       {

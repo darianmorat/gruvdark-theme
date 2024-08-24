@@ -485,7 +485,7 @@
       },
       {
          "name": "Variables",
-         "scope": ["variable"],
+         "scope": ["variable", "keyword.other.important.css"],
          "settings": {
             "foreground": "#111111"
          }
@@ -1127,7 +1127,7 @@
             "keyword.other.unit"
          ],
          "settings": {
-            "foreground": "#D19A66"
+            "foreground": "#BF6702"
          }
       },
       {

@@ -258,8 +258,8 @@
       "debugExceptionWidget.border": "#474747",
       "editorCursor.foreground": "#cecece",
       "editorPane.background": "#171822",
-      "editorIndentGuide.background1": "#3d3947",
-      "editorIndentGuide.activeBackground1": "#5b6075",
+      "editorIndentGuide.background1": "#2b2e35",
+      "editorIndentGuide.activeBackground1": "#464853",
       "scrollbar.shadow": "#00000096",
       "editorGroupHeader.noTabsBackground": "#191a24",
       "sideBar.border": "#181923",
@@ -268,10 +268,10 @@
       "tab.inactiveBackground": "#191a24",
       "activityBar.background": "#181923",
       "activityBar.border": "#181923",
-      "statusBar.border": "#3b3d46",
+      "statusBar.border": "#2b2e35",
       "editorGroup.border": "#00000000",
-      "panel.border": "#3b3d46",
-      "editorOverviewRuler.border": "#32343b"
+      "panel.border": "#2b2e35",
+      "editorOverviewRuler.border": "#2b2e35"
    },
    "tokenColors": [
       {
@@ -290,8 +290,13 @@
          }
       },
       {
-         "name": "Variables",
-         "scope": ["variable", "support.variable", "meta.definition.variable"],
+         "name": "Variables white",
+         "scope": [
+            "variable",
+            "support.variable",
+            "meta.definition.variable",
+            "meta.function-call.arguments.python"
+         ],
          "settings": {
             "foreground": "#cdc5b8"
          }
@@ -338,40 +343,36 @@
          }
       },
       {
-         "name": "Tag",
-         "scope": [
-            "entity.name.tag",
-            "meta.tag.sgml",
-            "markup.deleted.git_gutter"
-         ],
+         "name": "Tag red",
+         "scope": ["entity.name.tag", "meta.tag.sgml", "markup.deleted.git_gutter"],
          "settings": {
             "foreground": "#db6a6a"
          }
       },
       {
-         "name": "Function, Special Method",
+         "name": "Function red",
          "scope": [
             "entity.name.function",
             "meta.function-call",
             "variable.function",
             "support.function",
-            "keyword.other.special-method"
+            "keyword.other.special-method",
+            "constant.other.caps.rust"
          ],
          "settings": {
             "foreground": "#db6a6a"
          }
       },
       {
-         "name": "Other Variable, String Link",
+         "name": "Other Variable red",
          "scope": ["string.other.link"],
          "settings": {
             "foreground": "#db6a6a"
          }
       },
       {
-         "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
+         "name": "Number, Constant, Function Argument blue",
          "scope": [
-            "constant.language",
             "support.constant",
             "constant.character",
             "constant.escape",
@@ -385,7 +386,7 @@
          }
       },
       {
-         "name": "String, Symbols, Inherited Class, Markup Heading",
+         "name": "String, Symbols green",
          "scope": [
             "string",
             "constant.other.symbol",
@@ -400,7 +401,7 @@
          }
       },
       {
-         "name": "Class, Support",
+         "name": "Class, Support, aqua",
          "scope": [
             "entity.name",
             "support.type",
@@ -410,7 +411,8 @@
             "meta.use.php",
             "support.other.namespace.php",
             "markup.changed.git_gutter",
-            "support.type.sys-types"
+            "support.type.sys-types",
+            "support.type.python"
          ],
          "settings": {
             "foreground": "#4db0bd"
@@ -464,10 +466,7 @@
       },
       {
          "name": "meta.method.js",
-         "scope": [
-            "meta.class-method.js entity.name.function.js",
-            "variable.function.constructor"
-         ],
+         "scope": ["meta.class-method.js entity.name.function.js", "variable.function.constructor"],
          "settings": {
             "foreground": "#82AAFF"
          }
@@ -558,9 +557,7 @@
       },
       {
          "name": "ES7 Bind Operator",
-         "scope": [
-            "source.js constant.other.object.key.js string.unquoted.label.js"
-         ],
+         "scope": ["source.js constant.other.object.key.js string.unquoted.label.js"],
          "settings": {
             "fontStyle": "italic",
             "foreground": "#FF5370"
@@ -568,9 +565,7 @@
       },
       {
          "name": "JSON Key - Level 0",
-         "scope": [
-            "source.json meta.structure.dictionary.json support.type.property-name.json"
-         ],
+         "scope": ["source.json meta.structure.dictionary.json support.type.property-name.json"],
          "settings": {
             "foreground": "#db6a6a"
          }
@@ -659,20 +654,14 @@
       },
       {
          "name": "Letters JSON",
-         "scope": [
-            "constant.numeric.json.comments",
-            "constant.language.json.comments"
-         ],
+         "scope": ["constant.numeric.json.comments", "constant.language.json.comments"],
          "settings": {
             "foreground": "#D19A66"
          }
       },
       {
          "name": "Markdown - Plain",
-         "scope": [
-            "text.html.markdown",
-            "punctuation.definition.list_item.markdown"
-         ],
+         "scope": ["text.html.markdown", "punctuation.definition.list_item.markdown"],
          "settings": {
             "foreground": "#cdc5b8"
          }
@@ -773,10 +762,7 @@
       },
       {
          "name": "Markdown - Link",
-         "scope": [
-            "string.other.link.title.markdown",
-            "string.other.link.description.markdown"
-         ],
+         "scope": ["string.other.link.title.markdown", "string.other.link.description.markdown"],
          "settings": {
             "foreground": "#db63c5"
          }
@@ -862,10 +848,7 @@
       },
       {
          "name": "HTML classes id",
-         "scope": [
-            "punctuation.separator.key-value.html",
-            "entity.other.attribute-name.html"
-         ],
+         "scope": ["punctuation.separator.key-value.html", "entity.other.attribute-name.html"],
          "settings": {
             "foreground": "#9266da"
          }
@@ -908,6 +891,7 @@
             "support.constant.color.css",
             "support.constant.font-name.css",
             "support.constant.color.w3c-standard-color-name.css",
+            "support.constant.color.w3c-extended-color-name.css",
             "constant.other.color.rgb-value.hex.css",
             "punctuation.definition.constant.css",
             "support.function.transform.css"
@@ -945,6 +929,17 @@
          }
       },
       {
+         "name": "CSS Erros white",
+         "scope": [
+            "meta.property-value.css",
+            "meta.property-name.css",
+            "keyword.other.important.css"
+         ],
+         "settings": {
+            "foreground": "#cdc5b8"
+         }
+      },
+      {
          "name": "brackets",
          "scope": ["punctuation", "meta.brace.square", "meta.brace.round"],
          "settings": {
@@ -953,23 +948,24 @@
       },
       {
          "name": "template",
-         "scope": [
-            "meta.embedded.line",
-            "punctuation.definition.template-expression"
-         ],
+         "scope": ["meta.embedded.line", "punctuation.definition.template-expression"],
          "settings": {
             "foreground": "#76b568"
          }
       },
       {
          "name": "template",
-         "scope": ["punctuation.definition.string", "string"],
+         "scope": [
+            "punctuation.definition.string",
+            "string",
+            "constant.character.format.placeholder.other.python"
+         ],
          "settings": {
             "foreground": "#76b568"
          }
       },
       {
-         "name": "Symbols",
+         "name": "Symbols blue",
          "scope": [
             "keyword.operator.assignment",
             "keyword.operator.arithmetic",
@@ -978,7 +974,11 @@
             "keyword.operator.comparison",
             "keyword.operator.increment",
             "keyword.operator.decrement",
-            "keyword.operator.relational.js"
+            "keyword.operator.relational.js",
+            "keyword.operator.unpacking.arguments.python",
+            "keyword.operator.borrow.and.rust",
+            "keyword.operator.namespace.rust",
+            "keyword.operator.access.dot.rust"
          ],
          "settings": {
             "foreground": "#5b98c9"
@@ -986,13 +986,13 @@
       },
       {
          "name": "variables const let",
-         "scope": ["storage.type"],
+         "scope": ["storage.type", "storage.modifier.mut.rust"],
          "settings": {
             "foreground": "#5b98c9"
          }
       },
       {
-         "name": "Main color",
+         "name": "Main color pink",
          "scope": [
             "keyword.control",
             "keyword.operator",
@@ -1000,7 +1000,10 @@
             "keyword.control.conditional",
             "keyword.control.loop",
             "storage.type.function.js",
-            "storage.type.class.js"
+            "storage.type.class.js",
+            "storage.type.class.python",
+            "storage.type.function.python",
+            "keyword.other.rust"
          ],
          "settings": {
             "foreground": "#db63c5"
@@ -1014,12 +1017,15 @@
          }
       },
       {
-         "name": "Numbers boolean",
+         "name": "Numbers boolean yellow",
          "scope": [
             "constant.numeric.decimal",
             "constant.language.boolean.true",
             "constant.language.boolean.false",
-            "variable.language.this"
+            "variable.language.this",
+            "constant.language",
+            "constant.numeric.dec.python",
+            "constant.numeric.hex.rust"
          ],
          "settings": {
             "foreground": "#d19f66"

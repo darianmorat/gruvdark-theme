@@ -24,7 +24,7 @@
       "focusBorder": "#007fd4",
       "titleBar.border": "#00000050",
       "editorGutter.background": "#1A1B26",
-      "terminal.background": "#1A1B26",
+      "terminal.background": "#181923",
       "breadcrumb.background": "#1A1B26",
       "tab.activeBackground": "#1A1B26",
       "peekViewTitle.background": "#1A1B26",
@@ -175,8 +175,8 @@
       "terminal.ansiBrightCyan": "#4db0bd",
       "terminal.ansiGreen": "#76b568",
       "terminal.ansiBrightGreen": "#76b568",
-      "terminal.ansiMagenta": "#d670d6",
-      "terminal.ansiBrightMagenta": "#d670d6",
+      "terminal.ansiMagenta": "#CD60B9",
+      "terminal.ansiBrightMagenta": "#CD60B9",
       "breadcrumb.foreground": "#858585",
       "breadcrumb.focusForeground": "#e0e0e0",
       "tab.activeForeground": "#d1cfc7",
@@ -262,7 +262,7 @@
       "editorIndentGuide.activeBackground1": "#464853",
       "scrollbar.shadow": "#00000096",
       "editorGroupHeader.noTabsBackground": "#191a24",
-      "sideBar.border": "#181923",
+      "sideBar.border": "#2b2e35",
       "statusBarItem.remoteBackground": "#00000000",
       "editorGroupHeader.tabsBackground": "#191a24",
       "tab.inactiveBackground": "#191a24",
@@ -764,7 +764,7 @@
          "name": "Markdown - Link",
          "scope": ["string.other.link.title.markdown", "string.other.link.description.markdown"],
          "settings": {
-            "foreground": "#db63c5"
+            "foreground": "#CD60B9"
          }
       },
       {
@@ -925,7 +925,7 @@
             "variable.css"
          ],
          "settings": {
-            "foreground": "#db63c5"
+            "foreground": "#CD60B9"
          }
       },
       {
@@ -1006,7 +1006,7 @@
             "keyword.other.rust"
          ],
          "settings": {
-            "foreground": "#db63c5"
+            "foreground": "#CD60B9"
          }
       },
       {

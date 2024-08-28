@@ -49,7 +49,7 @@
       "listFilterWidget.outline": "#00000000",
       "listFilterWidget.noMatchesOutline": "#be1100",
       "statusBarItem.hoverBackground": "#d1cfc71f",
-      "statusBar.noFolderBackground": "#68217a",
+      "statusBar.noFolderBackground": "#1e1e1e",
       "statusBar.noFolderForeground": "#d1cfc7",
       "titleBar.activeForeground": "#d1cfc7",
       "titleBar.inactiveBackground": "#252525",
@@ -140,8 +140,8 @@
       "terminal.ansiBrightCyan": "#4db0bd",
       "terminal.ansiGreen": "#76b568",
       "terminal.ansiBrightGreen": "#76b568",
-      "terminal.ansiMagenta": "#d670d6",
-      "terminal.ansiBrightMagenta": "#d670d6",
+      "terminal.ansiMagenta": "#CD60B9",
+      "terminal.ansiBrightMagenta": "#CD60B9",
       "breadcrumb.foreground": "#858585",
       "breadcrumb.focusForeground": "#e0e0e0",
       "tab.border": "#00000000",
@@ -236,7 +236,7 @@
       "debugExceptionWidget.border": "#303030",
       "editorCursor.foreground": "#cecece",
       "editorIndentGuide.activeBackground1": "#444444",
-      "sideBar.border": "#1c1c1c",
+      "sideBar.border": "#303030",
       "sideBar.background": "#1c1c1c",
       "sideBarSectionHeader.background": "#1c1c1c",
       "statusBarItem.remoteBackground": "#00000000",
@@ -248,7 +248,7 @@
       "editorOverviewRuler.border": "#303030",
       "editor.background": "#202020",
       "editorGutter.background": "#202020",
-      "terminal.background": "#202020",
+      "terminal.background": "#1e1e1e",
       "statusBar.background": "#1e1e1e",
       "panel.background": "#1e1e1e",
       "editorPane.background": "#1d1d1d",
@@ -270,7 +270,7 @@
       "editorGroupHeader.tabsBackground": "#1f1f1f",
       "titleBar.activeBackground": "#202020",
       "titleBar.border": "#2f2f2f",
-      "statusBar.debuggingBackground": "#2E2E2E",
+      "statusBar.debuggingBackground": "#1e1e1e",
       "statusBar.debuggingForeground": "#d1cfc7"
    },
    "tokenColors": [
@@ -764,7 +764,7 @@
          "name": "Markdown - Link",
          "scope": ["string.other.link.title.markdown", "string.other.link.description.markdown"],
          "settings": {
-            "foreground": "#db63c5"
+            "foreground": "#CD60B9"
          }
       },
       {
@@ -925,7 +925,7 @@
             "variable.css"
          ],
          "settings": {
-            "foreground": "#db63c5"
+            "foreground": "#CD60B9"
          }
       },
       {
@@ -1006,7 +1006,7 @@
             "keyword.other.rust"
          ],
          "settings": {
-            "foreground": "#db63c5"
+            "foreground": "#CD60B9"
          }
       },
       {

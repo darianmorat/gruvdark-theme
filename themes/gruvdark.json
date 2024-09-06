@@ -654,7 +654,7 @@
       },
       {
          "name": "Letters JSON",
-         "scope": ["constant.numeric.json.comments", "constant.language.json.comments"],
+         "scope": ["constant.numeric.json.comments", "constant.numeric.json", "constant.language.json.comments"],
          "settings": {
             "foreground": "#D19A66"
          }

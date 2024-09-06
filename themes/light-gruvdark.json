@@ -571,7 +571,6 @@
       {
          "name": "Number, Constant, Function Argument, Tag Attribute, Embedded",
          "scope": [
-            "constant.language",
             "support.constant",
             "constant.character",
             "constant.escape",
@@ -858,12 +857,9 @@
       },
       {
          "name": "Letters JSON",
-         "scope": [
-            "constant.numeric.json.comments",
-            "constant.language.json.comments"
-         ],
+         "scope": ["constant.numeric.json.comments","constant.language", "constant.numeric.json", "constant.language.json.comments"],
          "settings": {
-            "foreground": "#D19A66"
+            "foreground": "#BF6702"
          }
       },
       {

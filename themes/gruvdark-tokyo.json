@@ -62,9 +62,9 @@
       "listFilterWidget.noMatchesOutline": "#be1100",
       "statusBar.foreground": "#d1cfc7",
       "statusBarItem.hoverBackground": "#d1d1d11f",
-      "statusBar.debuggingBackground": "#cc6633",
+      "statusBar.debuggingBackground": "#181923",
       "statusBar.debuggingForeground": "#d1cfc7",
-      "statusBar.noFolderBackground": "#68217a",
+      "statusBar.noFolderBackground": "#181923",
       "statusBar.noFolderForeground": "#d1cfc7",
       "statusBarItem.remoteForeground": "#d1cfc7",
       "titleBar.activeForeground": "#d1cfc7",
@@ -654,7 +654,7 @@
       },
       {
          "name": "Letters JSON",
-         "scope": ["constant.numeric.json.comments", "constant.language.json.comments"],
+         "scope": ["constant.numeric.json.comments", "constant.numeric.json", "constant.language.json.comments"],
          "settings": {
             "foreground": "#D19A66"
          }

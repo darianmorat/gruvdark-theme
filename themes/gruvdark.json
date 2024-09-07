@@ -422,7 +422,7 @@
          "name": "Entity Types",
          "scope": ["support.type"],
          "settings": {
-            "foreground": "#B2CCD6"
+            "foreground": "#4db0bd"
          }
       },
       {
@@ -436,7 +436,7 @@
             "source.postcss support.type.property-name"
          ],
          "settings": {
-            "foreground": "#B2CCD6"
+            "foreground": "#4db0bd"
          }
       },
       {

@@ -304,7 +304,7 @@
       "editorPane.background": "#1d1d1d",
       "statusBar.foreground": "#c3b9aa",
       "statusBar.border": "#303030",
-      "statusBar.debuggingForeground": "#e78a4e",
+      "statusBar.debuggingForeground": "#c3b9aa",
       "statusBar.debuggingBackground": "#292828",
       "statusBar.noFolderBackground": "#292828",
       "statusBar.noFolderForeground": "#c3b9aa",
@@ -888,14 +888,14 @@
       },
       {
          "name": "Html yellow",
-         "scope": "entity.other.attribute-name.html, entity.other.attribute-name.xml, entity.other.attribute-name.localname.xml",
+         "scope": "entity.other.attribute-name.html, entity.other.attribute-name.xml, entity.other.attribute-name.localname.xml, punctuation.separator.key-value.html",
          "settings": {
             "foreground": "#d8a657"
          }
       },
       {
          "name": "Html green",
-         "scope": "string.quoted.double.html, string.quoted.single.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.separator.key-value.html, punctuation.definition.string.begin.xml, punctuation.definition.string.end.xml, string.quoted.double.xml, string.quoted.single.xml, punctuation.definition.tag.xml, meta.tag.xml, meta.tag.preprocessor.xml, meta.tag.other.html, meta.tag.block.any.html, meta.tag.inline.any.html",
+         "scope": "string.quoted.double.html, string.quoted.single.html, punctuation.definition.string.begin.html, punctuation.definition.string.end.html, punctuation.definition.string.begin.xml, punctuation.definition.string.end.xml, string.quoted.double.xml, string.quoted.single.xml, punctuation.definition.tag.xml, meta.tag.xml, meta.tag.preprocessor.xml, meta.tag.other.html, meta.tag.block.any.html, meta.tag.inline.any.html",
          "settings": {
             "foreground": "#a9b665"
          }
@@ -1063,14 +1063,21 @@
       },
       {
          "name": "JSX white",
-         "scope": "JSXNested",
+         "scope": "JSXNested, meta.jsx.children.js.jsx",
          "settings": {
             "foreground": "#d4be98"
          }
       },
       {
+         "name": "JSX red",
+         "scope": "entity.name.tag.js.jsx, punctuation.definition.tag.end.js.jsx, punctuation.definition.tag.begin.js.jsx",
+         "settings": {
+            "foreground": "#EA6962"
+         }
+      }, 
+      {
          "name": "JSX green",
-         "scope": "punctuation.definition.tag.jsx, entity.other.attribute-name.jsx, punctuation.definition.tag.begin.js.jsx, punctuation.definition.tag.end.js.jsx, entity.other.attribute-name.js.jsx",
+         "scope": "punctuation.definition.tag.jsx, entity.other.attribute-name.jsx, entity.other.attribute-name.js.jsx",
          "settings": {
             "foreground": "#a9b665"
          }

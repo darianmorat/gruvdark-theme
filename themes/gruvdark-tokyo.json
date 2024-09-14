@@ -982,7 +982,8 @@
             "keyword.operator.unpacking.arguments.python",
             "keyword.operator.borrow.and.rust",
             "keyword.operator.namespace.rust",
-            "keyword.operator.access.dot.rust"
+            "keyword.operator.access.dot.rust",
+            "keyword.operator.ternary.js"
          ],
          "settings": {
             "foreground": "#5b98c9"
@@ -1029,7 +1030,8 @@
             "variable.language.this",
             "constant.language",
             "constant.numeric.dec.python",
-            "constant.numeric.hex.rust"
+            "constant.numeric.hex.rust",
+            "constant.numeric"
          ],
          "settings": {
             "foreground": "#d19f66"

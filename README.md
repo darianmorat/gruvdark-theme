@@ -4,53 +4,22 @@
 
 ### Showcase
 
-<!-- Gruvdark -->
-<table width="100%">
-  <tr>
-    <th width="50%">GruvDark</th>
-    <th width="50%">Light Gruvdark</th>
-  </tr>
-  <tr>
-    <th><img src="images/gruvdark.png" width="100%"><img></th>
-    <th><img src="images/light-gruvdark.png" width="100%"><img></th>
-  </tr>
-</table>
+| GruvDark | Light Gruvdark |
+| -------- | -------------- |
+| ![GruvDark](images/gruvdark.png) | ![Light Gruvdark](images/light-gruvdark.png) |
 
-<!-- Gruvdark-GBM -->
-<table width="100%">
-  <tr>
-    <th width="50%">Gruvdark-GBM</th>
-    <th width="50%">Light Gruvdark-GBM</th>
-  </tr>
-  <tr>
-    <td><img src="images/gruvdark-gbm.png" width="100%"><img></td>
-    <td><img src="images/light-gruvdark-gbm.png" width="100%"><img></td>
-  </tr>
-</table>
+| GruvDark-GBM | Light Gruvdark-GBM |
+| ------------ | ------------------ |
+| ![GruvDark-GBM](images/gruvdark-gbm.png) | ![Light Gruvdark-GBM](images/light-gruvdark-gbm.png) |
 
-<!-- Gruvdark-Mono -->
-<table width="100%">
-  <tr>
-    <th width="50%">GruvDark-Mono</th>
-    <th width="50%">Light GruvDark-Mono</th>
-  </tr>
-  <tr>
-    <td><img src="images/gruvdark-mono.png" width="100%"><img></td>
-    <td><img src="images/light-gruvdark-mono.png" width="100%"><img></td>
-  </tr>
-</table>
+| GruvDark-Mono | Light Gruvdark-Mono |
+| ------------- | ------------------- |
+| ![GruvDark-Mono](images/gruvdark-mono.png) | ![Light Gruvdark-Mono](images/light-gruvdark-mono.png) |
 
-<!-- Gruvdark-Tokyo -->
-<table width="100%">
-  <tr>
-    <th width="50%">GruvDark-Tokyo</th>
-    <th width="50%">Light GruvDark-Tokyo</th>
-  </tr>
-  <tr>
-    <td><img src="images/gruvdark-tokyo.png" width="100%"><img></td>
-    <td><img src="images/light-gruvdark-tokyo.png" width="100%"><img></td>
-  </tr>
-</table>
+| GruvDark-Tokyo | Light Gruvdark-Tokyo |
+| -------------- |--------------------- |
+| ![GruvDark-Tokyo](images/gruvdark-tokyo.png) | ![Light Gruvdark-Tokyo](images/light-gruvdark-tokyo.png) |
+
 
 ### Inspirations
 

@@ -1,9 +1,9 @@
 {
    "name": "darian-theme",
    "displayName": "GruvDark Theme",
-   "description": "Retro-Modern Groove. Gruvbox's warm vintage tones meet OneDark's modern depth.",
+   "description": "Retro-Modern Groove",
    "icon": "images/logo.png",
-   "version": "2.0.2",
+   "version": "2.1.0",
    "publisher": "darianmorat",
    "repository": {
       "type": "git",
@@ -24,9 +24,7 @@
       "darktheme",
       "gruvdark",
       "vscode",
-      "dariantheme",
-      "gruvbox",
-      "onedark"
+      "dariantheme"
    ],
    "contributes": {
       "themes": [
@@ -41,6 +39,16 @@
             "path": "./themes/light-gruvdark-gbm.json"
          },
          {
+            "label": "Light GruvDark-Mono",
+            "uiTheme": "vs",
+            "path": "./themes/light-gruvdark-mono.json"
+         },
+         {
+            "label": "Light GruvDark-Tokyo",
+            "uiTheme": "vs",
+            "path": "./themes/light-gruvdark-tokyo.json"
+         },
+         {
             "label": "GruvDark",
             "uiTheme": "vs-dark",
             "path": "./themes/gruvdark.json"
@@ -49,6 +57,11 @@
             "label": "GruvDark-GBM",
             "uiTheme": "vs-dark",
             "path": "./themes/gruvdark-gbm.json"
+         },
+         {
+            "label": "GruvDark-Mono",
+            "uiTheme": "vs-dark",
+            "path": "./themes/gruvdark-mono.json"
          },
          {
             "label": "GruvDark-Tokyo",

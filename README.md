@@ -11,8 +11,8 @@
     <th width="50%">Light Gruvdark</th>
   </tr>
   <tr>
-    <td><img src="images/gruvdark.png" width="100%"><img></td>
-    <td><img src="images/light-gruvdark.png" width="100%"><img></td>
+    <th><img src="images/gruvdark.png" width="100%"><img></th>
+    <th><img src="images/light-gruvdark.png" width="100%"><img></th>
   </tr>
 </table>
 

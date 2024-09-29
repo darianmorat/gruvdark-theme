@@ -23,7 +23,7 @@
 -  [VSCode Default](https://github.com/microsoft/vscode) - Subtle background accents and clean borders.
 -  [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Simple and minimalistic black and white colors.
 
----
+## 
 
 GruvDark created by <a href="https://github.com/darianmorat">Darian Toledo</a>. ✨ <br />
 Have a good one!

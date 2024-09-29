@@ -1,23 +1,22 @@
-### Notes
+## Notes
 - Font used: [Jetbrains Mono](https://www.jetbrains.com/lp/mono).
 - For light themes use `Font weight: 600`.
 
-### Showcase
+## Showcase
 
-<p align="center"><strong>GruvDark ・・・ Light GruvDark</strong></p>
-<p align="center"><img src="images/gruvdark.jpg" alt="GruvDark"></p>
+#### GruvDark ・・・ Light GruvDark
+![GruvDark](images/gruvdark.jpg)
 
-<p align="center"><strong>GruvDark-GBM ・・・ Light GruvDark-GBM</strong></p>
-<p align="center"><img src="images/gruvdark-gbm.jpg" alt="GruvDark-GBM"></p>
+#### GruvDark-GBM ・・・ Light GruvDark-GBM
+![GruvDark-GBM](images/gruvdark-gbm.jpg)
 
-<p align="center"><strong>GruvDark-Mono ・・・ Light GruvDark-Mono</strong></p>
-<p align="center"><img src="images/gruvdark-mono.jpg" alt="GruvDark-Mono"></p>
+#### GruvDark-Mono ・・・ Light GruvDark-Mono
+![GruvDark-Mono](images/gruvdark-mono.jpg)
 
-<p align="center"><strong>GruvDark-Tokyo ・・・ Light GruvDark-Tokyo</strong></p>
-<p align="center"><img src="images/gruvdark-tokyo.jpg" alt="GruvDark-Tokyo"></p>
+#### GruvDark-Tokyo ・・・ Light GruvDark-Tokyo
+![GruvDark-Tokyo](images/gruvdark-tokyo.jpg)
 
-
-### Inspirations
+## Inspirations
 
 -  [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode) - Warm tones with a well-balanced contrast.
 -  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Vivid and strong color  palette with modern flair.

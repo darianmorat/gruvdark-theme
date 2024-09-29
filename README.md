@@ -4,21 +4,17 @@
 
 ### Showcase
 
-| GruvDark | Light Gruvdark |
-| -------- | -------------- |
-| ![GruvDark](images/gruvdark.png) | ![Light Gruvdark](images/light-gruvdark.png) |
+<p align="center"><strong>GruvDark ・・・ Light GruvDark</strong></p>
+<p align="center"><img src="images/gruvdark.jpg" alt="GruvDark"></p>
 
-| GruvDark-GBM | Light Gruvdark-GBM |
-| ------------ | ------------------ |
-| ![GruvDark-GBM](images/gruvdark-gbm.png) | ![Light Gruvdark-GBM](images/light-gruvdark-gbm.png) |
+<p align="center"><strong>GruvDark-GBM ・・・ Light GruvDark-GBM</strong></p>
+<p align="center"><img src="images/gruvdark-gbm.jpg" alt="GruvDark-GBM"></p>
 
-| GruvDark-Mono | Light Gruvdark-Mono |
-| ------------- | ------------------- |
-| ![GruvDark-Mono](images/gruvdark-mono.png) | ![Light Gruvdark-Mono](images/light-gruvdark-mono.png) |
+<p align="center"><strong>GruvDark-Mono ・・・ Light GruvDark-Mono</strong></p>
+<p align="center"><img src="images/gruvdark-mono.jpg" alt="GruvDark-Mono"></p>
 
-| GruvDark-Tokyo | Light Gruvdark-Tokyo |
-| -------------- |--------------------- |
-| ![GruvDark-Tokyo](images/gruvdark-tokyo.png) | ![Light Gruvdark-Tokyo](images/light-gruvdark-tokyo.png) |
+<p align="center"><strong>GruvDark-Tokyo ・・・ Light GruvDark-Tokyo</strong></p>
+<p align="center"><img src="images/gruvdark-tokyo.jpg" alt="GruvDark-Tokyo"></p>
 
 
 ### Inspirations

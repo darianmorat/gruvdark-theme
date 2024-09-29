@@ -1,3 +1,10 @@
+## 2.1.0
+
+-  Mayor Update
+-  UI and syntax color changed
+-  New theme: Gruvdark-Mono
+-  New theme: Light Gruvdark-Mono
+
 ## 1.7.0
 
 -  Mayor Update color syntax

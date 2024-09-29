@@ -11,8 +11,8 @@
     <th width="50%">Light Gruvdark</th>
   </tr>
   <tr>
-    <td><img src="images/gruvdark.png" width="100%"><br><img>
-    <td><img src="images/light-gruvdark.png" width="100%"><br><img>
+    <td><img src="images/gruvdark.png" width="100%"><img></td>
+    <td><img src="images/light-gruvdark.png" width="100%"><img></td>
   </tr>
 </table>
 
@@ -23,8 +23,8 @@
     <th width="50%">Light Gruvdark-GBM</th>
   </tr>
   <tr>
-    <td><img src="images/gruvdark-gbm.png" width="100%"><br><img>
-    <td><img src="images/light-gruvdark-gbm.png" width="100%"><br><img>
+    <td><img src="images/gruvdark-gbm.png" width="100%"><img></td>
+    <td><img src="images/light-gruvdark-gbm.png" width="100%"><img></td>
   </tr>
 </table>
 
@@ -35,8 +35,8 @@
     <th width="50%">Light GruvDark-Mono</th>
   </tr>
   <tr>
-    <td><img src="images/gruvdark-mono.png" width="100%"><br><img>
-    <td><img src="images/light-gruvdark-mono.png" width="100%"><br><img>
+    <td><img src="images/gruvdark-mono.png" width="100%"><img></td>
+    <td><img src="images/light-gruvdark-mono.png" width="100%"><img></td>
   </tr>
 </table>
 
@@ -47,8 +47,8 @@
     <th width="50%">Light GruvDark-Tokyo</th>
   </tr>
   <tr>
-    <td><img src="images/gruvdark-tokyo.png" width="100%"><br><img>
-    <td><img src="images/light-gruvdark-tokyo.png" width="100%"><br><img>
+    <td><img src="images/gruvdark-tokyo.png" width="100%"><img></td>
+    <td><img src="images/light-gruvdark-tokyo.png" width="100%"><img></td>
   </tr>
 </table>
 

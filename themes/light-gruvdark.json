@@ -987,7 +987,7 @@
             "punctuation.section.class.end"
          ],
          "settings": {
-            "foreground": "#EEFFFF"
+            "foreground": "#111111"
          }
       },
       {
@@ -1009,7 +1009,7 @@
          "name": "Markup - Table",
          "scope": ["markup.table"],
          "settings": {
-            "foreground": "#EEFFFF"
+            "foreground": "#111111"
          }
       },
       {

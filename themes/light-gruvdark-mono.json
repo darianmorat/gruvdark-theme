@@ -849,7 +849,7 @@
          "name": "Markdown - Header",
          "scope": ["entity.name.section.markdown"],
          "settings": {
-            "foreground": "#bf6702"
+            "foreground": "#3671A2"
          }
       },
       {
@@ -876,7 +876,7 @@
             "markup.heading.markdown punctuation.definition.heading.markdown"
          ],
          "settings": {
-            "foreground": "#bf6702"
+            "foreground": "#3671A2"
          }
       },
       {
@@ -939,7 +939,7 @@
             "string.other.link.description.markdown"
          ],
          "settings": {
-            "foreground": "#a10f86"
+            "foreground": "#7F7E7A"
          }
       },
       {
@@ -971,7 +971,7 @@
             "punctuation.section.class.end"
          ],
          "settings": {
-            "foreground": "#EEFFFF"
+            "foreground": "#111111"
          }
       },
       {
@@ -993,7 +993,7 @@
          "name": "Markup - Table",
          "scope": ["markup.table"],
          "settings": {
-            "foreground": "#EEFFFF"
+            "foreground": "#111111"
          }
       },
       {

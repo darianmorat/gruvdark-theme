@@ -16,13 +16,6 @@
 #### GruvDark-Tokyo ・・・ Light GruvDark-Tokyo
 ![GruvDark-Tokyo](images/gruvdark-tokyo.jpg)
 
-## Inspirations
-
--  [Gruvbox Material](https://github.com/sainnhe/gruvbox-material-vscode) - Warm tones with a well-balanced contrast.
--  [OneDarkPro](https://github.com/Binaryify/OneDark-Pro) - Vivid and strong color  palette with modern flair.
--  [VSCode Default](https://github.com/microsoft/vscode) - Subtle background accents and clean borders.
--  [Monochrome](https://marketplace.visualstudio.com/items?itemName=anotherglitchinthematrix.monochrome) - Simple and minimalistic black and white colors.
-
 ## 
 
 Theme created by <a href="https://github.com/darianmorat">Darian Toledo</a>.<br />

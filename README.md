@@ -25,5 +25,5 @@
 
 ## 
 
-Theme created by <a href="https://github.com/darianmorat">Darian Toledo</a>. ✨ <br />
+Theme created by <a href="https://github.com/darianmorat">Darian Toledo</a>.<br />
 Have a good one!

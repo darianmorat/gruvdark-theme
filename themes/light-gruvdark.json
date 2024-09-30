@@ -1019,7 +1019,9 @@
             "punctuation.definition.tag.begin.html",
             "punctuation.definition.tag.end.html",
             "punctuation.definition.tag.end.js.jsx",
-            "punctuation.definition.tag.begin.js.jsx"
+            "punctuation.definition.tag.begin.js.jsx",
+            "punctuation.definition.tag.begin.js",
+            "punctuation.definition.tag.end.js"
          ],
          "settings": {
             "foreground": "#ae0000"
@@ -1027,14 +1029,14 @@
       },
       {
          "name": "HTML classes id",
-         "scope": ["punctuation.separator.key-value.html", "entity.other.attribute-name.html", "entity.other.attribute-name.js.jsx"],
+         "scope": ["punctuation.separator.key-value.html", "entity.other.attribute-name.html", "entity.other.attribute-name.js.jsx", "entity.other.attribute-name.js"],
          "settings": {
             "foreground": "#480aab"
          }
       },
       {
          "name": "HTML",
-         "scope": ["text.html.derivative", "meta.jsx.children.js.jsx"],
+         "scope": ["text.html.derivative", "meta.jsx.children.js.jsx", "meta.jsx.children.js"],
          "settings": {
             "foreground": "#111111"
          }

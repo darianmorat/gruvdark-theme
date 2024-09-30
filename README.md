@@ -4,16 +4,16 @@
 
 ## Showcase
 
-#### GruvDark ・・・ Light GruvDark
+#### GruvDark
 ![GruvDark](images/gruvdark.jpg)
 
-#### GruvDark-GBM ・・・ Light GruvDark-GBM
+#### GruvDark-GBM
 ![GruvDark-GBM](images/gruvdark-gbm.jpg)
 
-#### GruvDark-Mono ・・・ Light GruvDark-Mono
+#### GruvDark-Mono
 ![GruvDark-Mono](images/gruvdark-mono.jpg)
 
-#### GruvDark-Tokyo ・・・ Light GruvDark-Tokyo
+#### GruvDark-Tokyo
 ![GruvDark-Tokyo](images/gruvdark-tokyo.jpg)
 
 ## 

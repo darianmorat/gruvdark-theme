@@ -4,7 +4,7 @@
 
 ##
 
-<p style="text-align:center; font-weight:bold;">GruvDark</p>
+<center style="font-weight:bold">GruvDark</center>
 
 ![GruvDark](images/gruvdark.jpg)
 

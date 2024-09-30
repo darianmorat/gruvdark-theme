@@ -8,15 +8,15 @@
 
 ![GruvDark](images/gruvdark.jpg)
 
-<p style="text-align:center; font-weight:bold;">GruvDark-GBM</p>
+<div align="center"><strong>GruvDark-GBM</strong></div>
 
 ![GruvDark-GBM](images/gruvdark-gbm.jpg)
 
-<p style="text-align:center; font-weight:bold;">GruvDark-Mono</p>
+<div align="center"><strong>GruvDark-Mono</strong></div>
 
 ![GruvDark-Mono](images/gruvdark-mono.jpg)
 
-<p style="text-align:center; font-weight:bold;">GruvDark-Tokyo</p>
+<div align="center"><strong>GruvDark-Tokyo</strong></div>
 
 ![GruvDark-Tokyo](images/gruvdark-tokyo.jpg)
 

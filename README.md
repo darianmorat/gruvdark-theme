@@ -5,26 +5,22 @@
 ##
 
 <div align="center"><strong>GruvDark</strong></div>
+<img src="images/gruvdark.jpg" alt="GruvDark" />
 
-![GruvDark](images/gruvdark.jpg)
-
-<br/>
+<br />
 <div align="center"><strong>GruvDark-GBM</strong></div>
+<img src="images/gruvdark-gbm.jpg" alt="GruvDark-GBM" />
 
-![GruvDark-GBM](images/gruvdark-gbm.jpg)
-
-<br/>
+<br />
 <div align="center"><strong>GruvDark-Mono</strong></div>
+<img src="images/gruvdark-mono.jpg" alt="GruvDark-Mono" />
 
-![GruvDark-Mono](images/gruvdark-mono.jpg)
-
-<br/>
+<br />
 <div align="center"><strong>GruvDark-Tokyo</strong></div>
-
-![GruvDark-Tokyo](images/gruvdark-tokyo.jpg)
+<img src="images/gruvdark-tokyo.jpg" alt="GruvDark-Tokyo" />
 
 ## 
 
 Theme created by <a href="https://github.com/darianmorat">Darian Toledo</a>.
-<br/>
+<br />
 Have a good one!

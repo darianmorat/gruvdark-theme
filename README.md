@@ -1,19 +1,23 @@
-## Notes
+### Notes:
 - Font used: [JetBrains Mono NL Slashed](https://github.com/sharpjs/JetBrainsMonoSlashed).
-- For light themes use `Font weight: 600`.
+- For light themes `Font weight: 600`.
 
 ##
 
-#### GruvDark
+<p style="text-align:center; font-weight:bold;">GruvDark</p>
+
 ![GruvDark](images/gruvdark.jpg)
 
-#### GruvDark-GBM
+<p style="text-align:center; font-weight:bold;">GruvDark-GBM</p>
+
 ![GruvDark-GBM](images/gruvdark-gbm.jpg)
 
-#### GruvDark-Mono
+<p style="text-align:center; font-weight:bold;">GruvDark-Mono</p>
+
 ![GruvDark-Mono](images/gruvdark-mono.jpg)
 
-#### GruvDark-Tokyo
+<p style="text-align:center; font-weight:bold;">GruvDark-Tokyo</p>
+
 ![GruvDark-Tokyo](images/gruvdark-tokyo.jpg)
 
 ## 

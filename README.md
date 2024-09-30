@@ -4,7 +4,7 @@
 
 ##
 
-<center>GruvDark</center>
+<div align="center">GruvDark</div>
 
 ![GruvDark](images/gruvdark.jpg)
 

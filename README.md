@@ -1,5 +1,5 @@
 ## Notes
-- Font used: [Jetbrains Mono](https://www.jetbrains.com/lp/mono).
+- Font used: [JetBrains Mono NL Slashed](https://github.com/sharpjs/JetBrainsMonoSlashed).
 - For light themes use `Font weight: 600`.
 
 ## Showcase

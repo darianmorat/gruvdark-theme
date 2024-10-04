@@ -108,7 +108,7 @@
       "input.placeholderForeground": "#a6a6a6",
       "textLink.foreground": "#3794ff",
       "editor.foreground": "#d4d4d4",
-      "editorLineNumber.foreground": "#858585",
+      "editorLineNumber.foreground": "#6e6f73",
       "editorCursor.background": "#000000",
       "editor.selectionBackground": "#253a61c4",
       "editor.inactiveSelectionBackground": "#3b465aab",
@@ -127,7 +127,7 @@
       "editor.wordHighlightBackground": "#36384b",
       "editor.lineHighlightBackground": "#d1d1d10A",
       "editor.lineHighlightBorder": "#00000000",
-      "editorLineNumber.activeForeground": "#cacaca",
+      "editorLineNumber.activeForeground": "#a0a6ae",
       "editorLink.activeForeground": "#4e94ce",
       "editorRuler.foreground": "#5a5a5a",
       "editorBracketMatch.background": "#0064001a",
@@ -281,10 +281,9 @@
    "tokenColors": [
       {
          "name": "Comment",
-         "scope": ["comment", "punctuation.definition.comment"],
+         "scope": ["comment","string.comment", "punctuation.definition.comment"],
          "settings": {
-            "fontStyle": "",
-            "foreground": "#7f7e7a"
+            "foreground": "#696971"
          }
       },
       {

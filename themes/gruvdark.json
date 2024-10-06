@@ -361,7 +361,8 @@
             "variable.function",
             "support.function",
             "keyword.other.special-method",
-            "constant.other.caps.rust"
+            "constant.other.caps.rust",
+            "support.function.misc.css"
          ],
          "settings": {
             "foreground": "#db6a6a"
@@ -837,8 +838,6 @@
          "name": "CSS text",
          "scope": [
             "support.type.property-name.css",
-            "keyword.operator.combinator.css",
-            "keyword.operator.comparison.css",
             "support.type.property-name.media.css"
          ],
          "settings": {
@@ -848,17 +847,10 @@
       {
          "name": "CSS results",
          "scope": [
-            "support.constant.property-value.css",
-            "support.constant.color.css",
-            "support.constant.font-name.css",
-            "support.constant.color.w3c-standard-color-name.css",
-            "support.constant.color.w3c-extended-color-name.css",
-            "constant.other.color.rgb-value.hex.css",
-            "punctuation.definition.constant.css",
             "support.function.transform.css"
          ],
          "settings": {
-            "foreground": "#d19f66"
+            "foreground": "#db6a6a"
          }
       },
       {
@@ -869,7 +861,6 @@
             "keyword.other.unit.px.css",
             "keyword.other.unit.fr.css",
             "keyword.other.unit.vh.css",
-            "support.function.misc.css",
             "keyword.other.unit"
          ],
          "settings": {
@@ -882,34 +873,43 @@
             "keyword.control.at-rule.media.css",
             "keyword.control.at-rule.import.css",
             "punctuation.definition.keyword.css",
-            "variable.argument.css",
-            "variable.css"
+            "keyword.other.important.css"
          ],
          "settings": {
             "foreground": "#CD60B9"
          }
       },
       {
-         "name": "CSS Erros white",
+         "name": "CSS white",
          "scope": [
+            "keyword.operator.combinator.css",
+            "support.constant.font-name.css",
+            "support.constant.color.css",
+            "support.constant.color.w3c-standard-color-name.css",
+            "support.constant.color.w3c-extended-color-name.css",
+            "punctuation.definition.constant.css",
+            "constant.other.color.rgb-value.hex.css",
             "meta.property-value.css",
             "meta.property-name.css",
-            "keyword.other.important.css"
+            "support.constant.property-value.css",
+            "variable.argument.css",
+            "variable.css",
+            "keyword.operator.comparison.css"
          ],
          "settings": {
             "foreground": "#cdc5b8"
          }
       },
       {
-         "name": "brackets",
-         "scope": ["punctuation", "meta.brace.square", "meta.brace.round"],
+         "name": "Punctuation",
+         "scope": ["punctuation", "meta.brace.square", "meta.brace.round", "keyword.operator.access.dot.rust", "keyword.operator.namespace.rust"],
          "settings": {
             "foreground": "#cdc5b8"
          }
       },
       {
          "name": "template",
-         "scope": ["meta.embedded.line", "punctuation.definition.template-expression"],
+         "scope": ["meta.embedded.line"],
          "settings": {
             "foreground": "#76b568"
          }
@@ -938,8 +938,6 @@
             "keyword.operator.relational.js",
             "keyword.operator.unpacking.arguments.python",
             "keyword.operator.borrow.and.rust",
-            "keyword.operator.namespace.rust",
-            "keyword.operator.access.dot.rust",
             "keyword.operator.ternary.js"
          ],
          "settings": {
@@ -978,6 +976,13 @@
             "foreground": "#cdc5b8"
          }
       },
+      {
+         "name": "Template symbols red",
+         "scope": ["punctuation.definition.template-expression"],
+         "settings": {
+            "foreground": "#DB6A6A"
+         }
+      }, 
       {
          "name": "Numbers boolean yellow",
          "scope": [

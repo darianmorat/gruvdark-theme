@@ -821,7 +821,10 @@
             "entity.other.attribute-name.class.css",
             "entity.other.attribute-name.pseudo-class.css",
             "punctuation.definition.entity.css",
-            "entity.other.attribute-name"
+            "entity.other.attribute-name",
+            "entity.name.tag.css",
+            "entity.name.tag.wildcard.css",
+            "keyword.other.important.css"
          ],
          "settings": {
             "foreground": "#6693B7"
@@ -831,7 +834,6 @@
          "name": "CSS text",
          "scope": [
             "support.type.property-name.css",
-            "keyword.operator.combinator.css",
             "keyword.operator.comparison.css",
             "support.type.property-name.media.css"
          ],
@@ -842,6 +844,7 @@
       {
          "name": "CSS results",
          "scope": [
+            "keyword.operator.combinator.css",
             "support.constant.property-value.css",
             "support.constant.color.css",
             "support.constant.font-name.css",

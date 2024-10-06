@@ -1102,8 +1102,7 @@
       {
          "name": "template",
          "scope": [
-            "meta.embedded.line",
-            "punctuation.definition.template-expression"
+            "meta.embedded.line"
          ],
          "settings": {
             "foreground": "#111111"
@@ -1127,7 +1126,8 @@
             "keyword.operator.increment",
             "keyword.operator.decrement",
             "keyword.operator.relational.js",
-            "keyword.operator.ternary.js"
+            "keyword.operator.ternary.js",
+            "punctuation.definition.template-expression"
          ],
          "settings": {
             "foreground": "#7F7E7A"

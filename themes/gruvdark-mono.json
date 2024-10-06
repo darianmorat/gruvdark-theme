@@ -895,8 +895,7 @@
       {
          "name": "template",
          "scope": [
-            "meta.embedded.line",
-            "punctuation.definition.template-expression"
+            "meta.embedded.line"
          ],
          "settings": {
             "foreground": "#CDC5B8"
@@ -921,7 +920,8 @@
             "keyword.operator.decrement",
             "keyword.operator.relational.js",
             "punctuation.support.type.property-name.begin.json",
-            "punctuation.support.type.property-name.end.json"
+            "punctuation.support.type.property-name.end.json",
+            "punctuation.definition.template-expression"
          ],
          "settings": {
             "foreground": "#7f7e7a"

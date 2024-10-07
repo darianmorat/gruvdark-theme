@@ -7,13 +7,19 @@
 <div align="center"><strong>GruvDark</strong></div>
 <img src="images/gruvdark.jpg" alt="GruvDark" />
 
+##
+
 <br />
 <div align="center"><strong>GruvDark-GBM</strong></div>
 <img src="images/gruvdark-gbm.jpg" alt="GruvDark-GBM" />
 
+##
+
 <br />
 <div align="center"><strong>GruvDark-Mono</strong></div>
 <img src="images/gruvdark-mono.jpg" alt="GruvDark-Mono" />
+
+##
 
 <br />
 <div align="center"><strong>GruvDark-Tokyo</strong></div>
